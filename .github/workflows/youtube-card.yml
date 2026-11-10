@@ -1,18 +1,20 @@
-name: Update YouTube Videos
+name: Latest YouTube Videos
 on:
-    schedule:
-        - cron: "0 * * * *" # Se ejecuta cada hora
-    workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions en GitHub
+  schedule:
+    - cron: '0 * * * *' # Se ejecuta cada hora
+  workflow_dispatch:     # Permite darle clic manual en GitHub
 
 jobs:
-    update:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout
-              uses: actions/checkout@v3
+  update-readme-with-youtube:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
 
-            - name: Pull Latest YouTube Videos
-              uses: gautamkrishnar/blog-post-workflow@master
-              with:
-                  comment_tag_name: "YOUTUBE"
-                  feed_list: "https://www.youtube.com/feeds/videos.xml?user=datacode-dev"
+      - name: Pull YouTube Videos
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE-POST-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?user=datacode-dev"
+          max_post_count: 4
+          template: "<table><tr><td><a href='$url'><img width='200px' src='$neuro_image'></a></td><td><a href='$url'>$title</a><br/>$date</td></tr></table>"omment_tag_name: "YOUTUBE"
