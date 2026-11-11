@@ -1,0 +1,21 @@
+# Credenciales y notas locales (NUNCA commitear)
+docs/
+
+# Feature tracking local de ODD (la copia de recuperación vive en Engram)
+odd/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
