@@ -6,10 +6,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%ffffff&size=30&center=true&vCenter=true&height=30&width=600&lines=Bienvenidos+a+mi+perfil!" alt="Title">
 </div>-->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox) ![WhatsApp](https://img.shields.io/badge/+18495776321-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![TikTok](https://img.shields.io/badge/leonardotm1-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/Leonardo.adames-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@DataCraftRD) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-  
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/youtube-subscribers.svg"/></a>
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/youtube-views.svg"/></a>
+      <a href="https://x.com/ForrestPKnight">
+         <img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/x-follow.svg"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/github-stars.svg"/></a>
+   </p>
+
+---
+
 <br><br>
 
 <details>
@@ -18,15 +27,13 @@
       <picture>
         <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
       </picture>
-      ABOUT ME
+      SOBRE MÍ
     </h3>
   </summary>
 
   <br>
 
   <!-- Aquí va el contenido que quieres ocultar/mostrar -->
-### **Sobre de mi**
-
 Soy un profesional orientado al análisis de datos y Business Intelligence, con experiencia en el desarrollo de soluciones analíticas para áreas clave como finanzas, logística, almacén y ventas. Especializado en la construcción de herramientas de automatización de procesos, reportes y Dashboards que permiten monitorear el rendimiento del negocio y optimizar la toma de decisiones.
 
 De la supervisión operativa al análisis inteligente de datos. Ayudando a las empresas a ver lo que los números dicen.
@@ -49,7 +56,24 @@ Busco integrarme a un equipo donde pueda aplicar mis conocimientos técnicos y m
 
 📩 No dudes en contactarme por mensaje directo para conversar sobre cómo mi perfil puede aportar valor a tu organización.
 
+---
+
+<strong>Mis Redes Sociales</strong>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/) ![TikTok](https://img.shields.io/badge/leonardotm1-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/Leonardo.adames-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 </details>
+
+<br>
+
+<details>
+<summary style="cursor: pointer;">
+    <h3 style="display: inline;">
+      <picture>
+        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
+      </picture>
+      MIS HABILIDADES & HERRAMIENTAS
+    </h3>
+  </summary>
 
 <br>
 
@@ -107,8 +131,22 @@ Busco integrarme a un equipo donde pueda aplicar mis conocimientos técnicos y m
     <td><img width="64" src="https://github.com/user-attachments/assets/1b3109f1-ffa2-41f5-b3ea-683f8790ecce" /></td>
   </tr>
 </table>
+</details>
+
 <br>
 
 
-<!-- YOUTUBE-POST-LIST:START -->
-<!-- YOUTUBE-POST-LIST:END -->
+#
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![I Looked Into How Devs Are Actually Using AI](https://ytcards.demolab.com/?id=qCheZDyFX2U&title=I+Looked+Into+How+Devs+Are+Actually+Using+AI&lang=en&timestamp=1794235521&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1116 "I Looked Into How Devs Are Actually Using AI")](https://www.youtube.com/watch?v=qCheZDyFX2U)
+[![So I've Been Using Omarchy for 357 Days...](https://ytcards.demolab.com/?id=C7-cYjdmI2s&title=So+I%27ve+Been+Using+Omarchy+for+357+Days...&lang=en&timestamp=1792767632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2454 "So I've Been Using Omarchy for 357 Days...")](https://www.youtube.com/watch?v=C7-cYjdmI2s)
+[![Why Companies Are Still On Java 8](https://ytcards.demolab.com/?id=4ubVtKwaoI8&title=Why+Companies+Are+Still+On+Java+8&lang=en&timestamp=1791985507&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1023 "Why Companies Are Still On Java 8")](https://www.youtube.com/watch?v=4ubVtKwaoI8)
+[![Man, I love Java...](https://ytcards.demolab.com/?id=29k3eay4Lr4&title=Man%2C+I+love+Java...&lang=en&timestamp=1789574425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=628 "Man, I love Java...")](https://www.youtube.com/watch?v=29k3eay4Lr4)
+[![Why Every Company Copied Netflix's Architecture (And Shouldn't Have)](https://ytcards.demolab.com/?id=I_of74HSHiA&title=Why+Every+Company+Copied+Netflix%27s+Architecture+%28And+Shouldn%27t+Have%29&lang=en&timestamp=1789417232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1332 "Why Every Company Copied Netflix's Architecture (And Shouldn't Have)")](https://www.youtube.com/watch?v=I_of74HSHiA)
+[![Why Rust Can't Replace C++](https://ytcards.demolab.com/?id=QNPwKMOQIKM&title=Why+Rust+Can%27t+Replace+C%2B%2B&lang=en&timestamp=1788354914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=990 "Why Rust Can't Replace C++")](https://www.youtube.com/watch?v=QNPwKMOQIKM)
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@datacode-dev)
