@@ -12,6 +12,7 @@ are written to this public repo.
 import json
 import math
 import os
+import re
 import sys
 import urllib.request
 from pathlib import Path
@@ -59,6 +60,17 @@ ICON_X = (
     '<path transform="scale(.5833)" fill="#fff" d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 '
     '7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/>'
 )
+ICON_PERSON = (
+    '<path transform="scale(.5833)" fill="#fff" d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 '
+    '4v2h16v-2c0-2.66-5.33-4-8-4z"/>'
+)
+
+#: A browser user agent is required: YouTube answers with a JavaScript shell
+#: to anything that does not look like a browser.
+BROWSER_USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/131.0 Safari/537.36"
+)
 
 
 def text_length(s, bold):
@@ -85,18 +97,58 @@ def get_json(url, headers):
 
 
 def youtube_stats():
+    """Return (subscribers, total_views) for the configured channel.
+
+    The Data API is the documented source and gives both numbers, but it
+    needs the YouTube Data API v3 enabled on a Cloud project. When that is
+    not the case the subscriber count is read from the public channel page,
+    which carries the same number for anybody visiting it and needs no key.
+    The total view count only exists in the API, so it stays None.
+    """
     key = os.environ.get("YOUTUBE_API_KEY")
-    if not key:
-        raise RuntimeError("YOUTUBE_API_KEY is not set")
-    data = get_json(
-        f"https://www.googleapis.com/youtube/v3/channels?part=statistics&id={YOUTUBE_CHANNEL_ID}",
-        {"X-Goog-Api-Key": key},
+    if key:
+        try:
+            data = get_json(
+                f"https://www.googleapis.com/youtube/v3/channels?part=statistics&id={YOUTUBE_CHANNEL_ID}",
+                {"X-Goog-Api-Key": key},
+            )
+            stats = data["items"][0]["statistics"]
+            return int(stats["subscriberCount"]), int(stats["viewCount"])
+        except Exception:
+            pass  # fall through to the channel page
+
+    return youtube_subscribers_from_page(), None
+
+
+def youtube_subscribers_from_page():
+    """Read the subscriber count from the public channel page."""
+    url = f"https://www.youtube.com/channel/{YOUTUBE_CHANNEL_ID}/about"
+    request = urllib.request.Request(
+        url,
+        headers={"User-Agent": BROWSER_USER_AGENT, "Accept-Language": "en-US,en;q=0.9"},
     )
-    stats = data["items"][0]["statistics"]
-    return int(stats["subscriberCount"]), int(stats["viewCount"])
+    with urllib.request.urlopen(request, timeout=30) as response:
+        page = response.read().decode("utf-8", "replace")
+    match = re.search(r'"content":"([\d.,]+[KMB]?)\s+subscribers"', page)
+    if not match:
+        raise RuntimeError("the channel page does not expose a subscriber count")
+    return parse_count(match.group(1))
 
 
-def github_stars():
+def parse_count(text):
+    """Parse a YouTube formatted count such as '77' or '1.23K' into an int."""
+    cleaned = text.replace(",", "").strip()
+    match = re.fullmatch(r"([\d.]+)\s*([KMB]?)", cleaned, re.IGNORECASE)
+    if not match:
+        raise ValueError("unexpected count format")
+    multiplier = {"": 1, "K": 1_000, "M": 1_000_000, "B": 1_000_000_000}[
+        match.group(2).upper()
+    ]
+    return int(float(match.group(1)) * multiplier)
+
+
+def github_stats():
+    """Return (total stars, followers) across the user's public presence."""
     headers = {"Accept": "application/vnd.github+json"}
     if token := os.environ.get("GITHUB_TOKEN"):
         headers["Authorization"] = f"Bearer {token}"
@@ -108,8 +160,10 @@ def github_stars():
         )
         total += sum(r["stargazers_count"] for r in repos)
         if len(repos) < 100:
-            return total
+            break
         page += 1
+    user = get_json(f"https://api.github.com/users/{GITHUB_USER}", headers)
+    return total, int(user.get("followers", 0))
 
 
 def short(n):
@@ -149,8 +203,14 @@ def main():
     try:
         subs, views = youtube_stats()
         write("youtube-subscribers.svg", badge("Subscribe", short(subs), ICON_PLAY, "#CE4630", "#E05D44"))
-        write("youtube-views.svg", badge("Views", short(views), ICON_EYE, "#C79600", "#E1AD0E"))
-        print(f"subscribers={short(subs)} views={short(views)}")
+        print(f"subscribers={short(subs)}")
+        if views is None:
+            # The total view count only exists in the Data API, so this badge
+            # keeps its last good file until the API is available.
+            print("total views need the YouTube Data API; keeping the last good file")
+        else:
+            write("youtube-views.svg", badge("Views", short(views), ICON_EYE, "#C79600", "#E1AD0E"))
+            print(f"views={short(views)}")
     except Exception as e:  # type name only, so nothing request-related reaches the logs
         print(f"YouTube stats failed: {type(e).__name__}")
         failed = True
@@ -158,13 +218,15 @@ def main():
         write_placeholder("youtube-views.svg", "Views", ICON_EYE, "#C79600", "#E1AD0E")
 
     try:
-        stars = github_stars()
+        stars, followers = github_stats()
         write("github-stars.svg", badge("Stars", short(stars), ICON_STAR, "#488207", "#55960C"))
-        print(f"stars={short(stars)}")
+        write("github-followers.svg", badge("Followers", short(followers), ICON_PERSON, "#24292F", "#57606A"))
+        print(f"stars={short(stars)} followers={short(followers)}")
     except Exception as e:
         print(f"GitHub stars failed: {type(e).__name__}")
         failed = True
         write_placeholder("github-stars.svg", "Stars", ICON_STAR, "#488207", "#55960C")
+        write_placeholder("github-followers.svg", "Followers", ICON_PERSON, "#24292F", "#57606A")
 
     sys.exit(1 if failed else 0)
 

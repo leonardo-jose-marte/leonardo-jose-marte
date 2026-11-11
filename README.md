@@ -15,6 +15,8 @@
          <img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/x-follow.svg"/></a>
       <a href="https://github.com/leonardo-jose-marte?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-stars.svg"/></a>
+      <a href="https://github.com/leonardo-jose-marte?tab=followers">
+         <img alt="github followers" title="Followers on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-followers.svg"/></a>
    </p>
 
 ---
@@ -60,7 +62,7 @@ Busco integrarme a un equipo donde pueda aplicar mis conocimientos técnicos y m
 
 <strong>Mis Redes Sociales</strong>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/) ![TikTok](https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/Leonardo Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/) ![TikTok](https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)![Facebook](<https://img.shields.io/badge/Leonardo> Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 </details>
 
 <br>
