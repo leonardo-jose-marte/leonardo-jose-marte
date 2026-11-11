@@ -34,6 +34,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # A full history is needed so that `git pull --rebase` can fold in a
+          # manual edit made while this job was running. The default shallow
+          # clone refuses to rebase.
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
