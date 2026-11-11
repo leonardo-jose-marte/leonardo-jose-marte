@@ -26,7 +26,7 @@
   <summary style="cursor: pointer;">
     <h3 style="display: inline;">
       <picture>
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
+        <img src=".github/assets/datacode-mascot-tight.png" width="70" alt="DataCode mascot" style="vertical-align: middle;">
       </picture>
       <strong>SOBRE MÍ</strong>
     </h3>
