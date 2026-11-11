@@ -386,22 +386,19 @@ def test_render_cards_metadata_line_omits_unknown_parts():
     ]
     markup = render_cards(videos)
 
-    assert "18:36 · 10 nov 2026" in markup
+    assert "1.2K visualizaciones · 18:36 · 10 nov 2026" in markup
     assert "<sub>10 nov 2026</sub>" in markup
 
 
-def test_render_cards_ignores_the_view_count():
-    """The view count is a live counter and must not reach the README.
+def test_render_cards_shows_the_view_count():
+    """The card displays how many views the video has.
 
-    If it did, two consecutive runs would produce different blocks and the
-    workflow would commit on every schedule even when nothing changed.
+    The counter is live, so the block changes between runs; the workflow
+    runs weekly precisely to refresh it.
     """
-    base = make_video(video_id="same", view_count=70)
-    bumped = make_video(video_id="same", view_count=71)
+    markup = render_cards([make_video(video_id="withviews", view_count=1234)])
 
-    assert render_cards([base]) == render_cards([bumped])
-    assert "visualizaciones" not in render_cards([base])
-    assert "70" not in render_cards([base])
+    assert "1.2K visualizaciones" in markup
 
 
 # --------------------------------------------------------------------------- #
