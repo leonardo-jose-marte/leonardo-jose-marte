@@ -14,11 +14,11 @@ from .models import Video, compact_number, format_date, format_duration
 
 __all__ = ["CELL_WIDTH", "COLUMNS", "escape_text", "render_cards"]
 
-#: The grid is two columns wide.
-COLUMNS = 2
+#: The grid is three columns wide, so six videos fill two rows.
+COLUMNS = 3
 
 #: Width of a grid cell.
-CELL_WIDTH = "50%"
+CELL_WIDTH = "33%"
 
 #: Separator used between the metadata parts.
 METADATA_SEPARATOR = " · "

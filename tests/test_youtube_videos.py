@@ -315,12 +315,12 @@ def test_is_live_video():
 # --------------------------------------------------------------------------- #
 # 8. rendering
 # --------------------------------------------------------------------------- #
-def test_render_cards_builds_a_two_by_three_grid():
+def test_render_cards_builds_a_three_by_two_grid():
     videos = [make_video(video_id=f"video{index}") for index in range(6)]
     markup = render_cards(videos)
 
     assert markup.count("<table>") == 1
-    assert markup.count("<tr>") == 3
+    assert markup.count("<tr>") == 2
     assert markup.count("<td ") == 6
     assert markup.count("<img ") == 6
     # One distinct video link per card; each card renders it twice, once
@@ -346,7 +346,7 @@ def test_render_cards_keeps_the_grid_with_fewer_videos():
     videos = [make_video(video_id=f"video{index}") for index in range(4)]
     markup = render_cards(videos)
 
-    # Four videos fill exactly two rows of two cells.
+    # Four videos fill one full row of three plus a remainder cell.
     assert markup.count("<tr>") == 2
     assert markup.count("<td ") == 4
     assert markup.count("<img ") == 4
@@ -356,18 +356,18 @@ def test_render_cards_fills_the_remainder_row():
     videos = [make_video(video_id=f"video{index}") for index in range(5)]
     markup = render_cards(videos)
 
-    # Five videos are two full rows plus a remainder row with a single cell.
-    assert markup.count("<tr>") == 3
+    # Five videos fill one full row of three plus a remainder row of two.
+    assert markup.count("<tr>") == 2
     assert markup.count("<td ") == 5
     assert markup.count("<img ") == 5
 
 
-def test_render_cards_uses_two_columns_and_the_fifty_percent_width():
+def test_render_cards_uses_three_columns_and_the_thirty_three_percent_width():
     videos = [make_video(video_id=f"video{index}") for index in range(6)]
     markup = render_cards(videos)
 
-    assert markup.count('<td width="50%" valign="top">') == 6
-    assert 'width="33%"' not in markup
+    assert markup.count('<td width="33%" valign="top">') == 6
+    assert 'width="50%"' not in markup
 
 
 def test_render_cards_metadata_line_omits_unknown_parts():

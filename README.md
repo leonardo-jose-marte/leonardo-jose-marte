@@ -23,47 +23,30 @@
 
 <br><br>
 
-<details>
+<>
   <summary style="cursor: pointer;">
     <h3 style="display: inline;">
       <picture>
         <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
       </picture>
-      SOBRE MÍ
+      <strong>SOBRE MÍ</strong>
     </h3>
   </summary>
 
   <br>
 
   <!-- Aquí va el contenido que quieres ocultar/mostrar -->
-Soy un profesional orientado al análisis de datos y Business Intelligence, con experiencia en el desarrollo de soluciones analíticas para áreas clave como finanzas, logística, almacén y ventas. Especializado en la construcción de herramientas de automatización de procesos, reportes y Dashboards que permiten monitorear el rendimiento del negocio y optimizar la toma de decisiones.
+Analista de Datos y *Business Intelligence* de formación **100% autodidacta** y en **constante evolución**. Combino una sólida *madurez operativa* previa como supervisor y técnico con un dominio técnico continuo en **SQL, Python, Power BI, Excel y Estadística**, transformando datos desordenados en *automatizaciones*, *reportes* y *dashboards estratégicos* (**finanzas, logística, almacén y ventas**).
 
-De la supervisión operativa al análisis inteligente de datos. Ayudando a las empresas a ver lo que los números dicen.
+Mi propuesta de valor es unir la *visión práctica del negocio* con la **precisión analítica**: limpio y estructuro datos (**SQL/Power Query**), diseño *visualizaciones de alto impacto* (**Power BI/DAX/Tableau**) e implemento *análisis avanzados* (**Python**). Como **aprendiz permanente** y *solucionador de problemas*, busco sumarme a un equipo dinámico donde seguir expandiendo mis capacidades y aportar **valor real** desde el primer día.
 
-Mi trasfondo profesional como supervisor y técnico me enseñó a ver patrones, a anticipar problemas y a mantener la calma bajo presión. Hoy, aplico esa misma mentalidad lógica y orientada al detalle a mi pasión actual: el análisis de datos.
-
-Mi objetivo es ser el puente entre la información técnica compleja y los líderes de negocio. Como Analista de Datos especializado en SQL, Python, Power BI, Excel y Estadística Básica, poseo la capacidad de estructurar datos desordenados y presentarlos de forma clara y estratégica.
-
-Me considero un solucionador de problemas con un compromiso inquebrantable con la precisión. Si buscas un analista que combine madurez operativa con un sólido arsenal técnico para optimizar tu negocio, te invito a conectar.
-
-Mi propuesta de valor es la combinación única de una visión operativa pragmática con un sólido dominio técnico:
-
-Gestión y Limpieza de Datos: Experto en SQL y Power Query (M).
-
-Visualización de Impacto: Creación de Dashboards interactivos en Power BI (DAX), Excel, Python y Tablau.
-
-Análisis Avanzado: Automatización y análisis estadístico con Python.
-
-Busco integrarme a un equipo donde pueda aplicar mis conocimientos técnicos y mi madurez profesional para optimizar procesos y generar valor real.
-
-📩 No dudes en contactarme por mensaje directo para conversar sobre cómo mi perfil puede aportar valor a tu organización.
-
----
+📩 *¿Conversamos sobre cómo mi perfil puede potenciar tu organización? Contáctame por mensaje directo.*
 
 <strong>Mis Redes Sociales</strong>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/) ![TikTok](https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-</details>
+
+---
 
 <br>
 
@@ -72,7 +55,7 @@ Busco integrarme a un equipo donde pueda aplicar mis conocimientos técnicos y m
       <picture>
         <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
       </picture>
-      MIS HABILIDADES & HERRAMIENTAS
+      <strong>MIS HABILIDADES & HERRAMIENTAS</strong>
     </h3>
   </summary>
 
@@ -142,39 +125,37 @@ Busco integrarme a un equipo donde pueda aplicar mis conocimientos técnicos y m
 <!-- BEGIN YOUTUBE-CARDS -->
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://youtu.be/uekN_XPSeeI"><img src="https://i.ytimg.com/vi/uekN_XPSeeI/mqdefault.jpg" alt="Clase 1: Te enseño a instalar y configurar Go (Golang) en Windows como nadie lo hace" width="100%" /></a><br />
       <a href="https://youtu.be/uekN_XPSeeI"><strong>Clase 1: Te enseño a instalar y configurar Go (Golang) en Windows como nadie lo hace</strong></a><br />
       <sub>20 visualizaciones · 10 nov 2026</sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://youtu.be/LGdT1h6pGNs"><img src="https://i.ytimg.com/vi/LGdT1h6pGNs/mqdefault.jpg" alt="Curso de Programación con Python para Análisis De Datos desde cero: Clase 1-install &amp; config" width="100%" /></a><br />
       <a href="https://youtu.be/LGdT1h6pGNs"><strong>Curso de Programación con Python para Análisis De Datos desde cero: Clase 1-install &amp; config</strong></a><br />
       <sub>71 visualizaciones · 27 oct 2026</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://youtu.be/zfL8lOVdCVA"><img src="https://i.ytimg.com/vi/zfL8lOVdCVA/mqdefault.jpg" alt="Te enseño a descargar e instalar Power BI Desktop como nadie lo hace" width="100%" /></a><br />
       <a href="https://youtu.be/zfL8lOVdCVA"><strong>Te enseño a descargar e instalar Power BI Desktop como nadie lo hace</strong></a><br />
       <sub>72 visualizaciones · 22 oct 2026</sub>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <a href="https://youtu.be/-QlhQ7tI1PI"><img src="https://i.ytimg.com/vi/-QlhQ7tI1PI/mqdefault.jpg" alt="descarga e instala 🐘PostgreSQL y pgAdmin 4 en Windows como nadie lo hace" width="100%" /></a><br />
       <a href="https://youtu.be/-QlhQ7tI1PI"><strong>descarga e instala 🐘PostgreSQL y pgAdmin 4 en Windows como nadie lo hace</strong></a><br />
       <sub>64 visualizaciones · 21 oct 2026</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://youtu.be/9nfpqvmQlmA"><img src="https://i.ytimg.com/vi/9nfpqvmQlmA/mqdefault.jpg" alt="#2 instala Node.js en Linux con WSL en Windows como nadie lo hace" width="100%" /></a><br />
       <a href="https://youtu.be/9nfpqvmQlmA"><strong>#2 instala Node.js en Linux con WSL en Windows como nadie lo hace</strong></a><br />
       <sub>27 visualizaciones · 20 oct 2026</sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://youtu.be/SJqYWyofoqI"><img src="https://i.ytimg.com/vi/SJqYWyofoqI/mqdefault.jpg" alt="Cómo Instalar Node.js en Windows con NVM y Corepack | Evita Errores con pnpm y Yarn" width="100%" /></a><br />
       <a href="https://youtu.be/SJqYWyofoqI"><strong>Cómo Instalar Node.js en Windows con NVM y Corepack | Evita Errores con pnpm y Yarn</strong></a><br />
-      <sub>113 visualizaciones · 12 oct 2026</sub>
+      <sub>114 visualizaciones · 12 oct 2026</sub>
     </td>
   </tr>
 </table>
