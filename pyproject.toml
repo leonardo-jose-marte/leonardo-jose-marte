@@ -24,4 +24,3 @@ include = ["youtube_videos*"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = [".github/scripts"]
-addopts = "-q"

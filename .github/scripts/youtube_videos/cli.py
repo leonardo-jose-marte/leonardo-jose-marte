@@ -219,17 +219,17 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
             print(block)
         return EXIT_OK
 
-    if args.check:
-        if args.json_output:
-            print(json.dumps(summary, ensure_ascii=False, indent=2))
-        return EXIT_OUT_OF_DATE if changed else EXIT_OK
-
     if new_text is None:
         print(
             f"error: {readme_path} does not contain the YouTube card markers.",
             file=sys.stderr,
         )
         return EXIT_ERROR
+
+    if args.check:
+        if args.json_output:
+            print(json.dumps(summary, ensure_ascii=False, indent=2))
+        return EXIT_OUT_OF_DATE if changed else EXIT_OK
 
     if changed:
         _write_text(readme_path, new_text)
