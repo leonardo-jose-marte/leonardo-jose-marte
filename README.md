@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%ffffff&size=30&center=true&vCenter=true&height=30&width=600&lines=Bienvenidos+a+mi+perfil!" alt="Title">
 </div>-->
 
-   <p align="left">
+   <p align="center">
       <a href="https://www.youtube.com/@datacode-dev?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-subscribers.svg"/></a>
       <a href="https://www.youtube.com/@datacode-dev">
@@ -62,7 +62,7 @@ Busco integrarme a un equipo donde pueda aplicar mis conocimientos técnicos y m
 
 <strong>Mis Redes Sociales</strong>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/) ![TikTok](https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)![Facebook](<https://img.shields.io/badge/Leonardo> Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/) ![TikTok](https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 </details>
 
 <br>

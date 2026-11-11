@@ -100,10 +100,9 @@ def youtube_stats():
     """Return (subscribers, total_views) for the configured channel.
 
     The Data API is the documented source and gives both numbers, but it
-    needs the YouTube Data API v3 enabled on a Cloud project. When that is
-    not the case the subscriber count is read from the public channel page,
-    which carries the same number for anybody visiting it and needs no key.
-    The total view count only exists in the API, so it stays None.
+    needs the YouTube Data API v3 enabled on a Cloud project AND the key
+    allowed to call it. When that is not the case both numbers are read
+    from public pages that need no key at all.
     """
     key = os.environ.get("YOUTUBE_API_KEY")
     if key:
@@ -115,9 +114,15 @@ def youtube_stats():
             stats = data["items"][0]["statistics"]
             return int(stats["subscriberCount"]), int(stats["viewCount"])
         except Exception:
-            pass  # fall through to the channel page
+            pass  # fall through to the public pages
 
-    return youtube_subscribers_from_page(), None
+    subs = youtube_subscribers_from_page()
+    try:
+        views = youtube_views_from_feed()
+    except Exception:
+        # A truncated feed only invalidates the total, never the subscribers.
+        views = None
+    return subs, views
 
 
 def youtube_subscribers_from_page():
@@ -133,6 +138,28 @@ def youtube_subscribers_from_page():
     if not match:
         raise RuntimeError("the channel page does not expose a subscriber count")
     return parse_count(match.group(1))
+
+
+def youtube_views_from_feed():
+    """Sum the views of every video in the channel feed.
+
+    The feed carries the view count of each video and is truncated at 15
+    entries. While the channel has fewer videos than that the feed holds
+    all of them, so the sum is exactly the channel's total view count. Once
+    the channel grows past the limit the sum would only cover the most
+    recent videos, so the total is reported as unknown instead of wrong.
+    """
+    url = f"https://www.youtube.com/feeds/videos.xml?channel_id={YOUTUBE_CHANNEL_ID}"
+    request = urllib.request.Request(url, headers={"User-Agent": BROWSER_USER_AGENT})
+    with urllib.request.urlopen(request, timeout=30) as response:
+        feed = response.read().decode("utf-8", "replace")
+    entries = re.findall(r"<entry>", feed)
+    views = [int(value) for value in re.findall(r'<media:statistics views="(\d+)"', feed)]
+    if len(entries) != len(views):
+        raise RuntimeError("not every feed entry carries a view count")
+    if len(entries) >= 15:
+        raise RuntimeError("the feed is truncated; the sum is not the channel total")
+    return sum(views)
 
 
 def parse_count(text):
