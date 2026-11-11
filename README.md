@@ -146,36 +146,36 @@ Busco integrarme a un equipo donde pueda aplicar mis conocimientos técnicos y m
     <td width="50%" valign="top">
       <a href="https://youtu.be/uekN_XPSeeI"><img src="https://i.ytimg.com/vi/uekN_XPSeeI/mqdefault.jpg" alt="Clase 1: Te enseño a instalar y configurar Go (Golang) en Windows como nadie lo hace" width="100%" /></a><br />
       <a href="https://youtu.be/uekN_XPSeeI"><strong>Clase 1: Te enseño a instalar y configurar Go (Golang) en Windows como nadie lo hace</strong></a><br />
-      <sub>10 nov 2026</sub>
+      <sub>20 visualizaciones · 10 nov 2026</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://youtu.be/LGdT1h6pGNs"><img src="https://i.ytimg.com/vi/LGdT1h6pGNs/mqdefault.jpg" alt="Curso de Programación con Python para Análisis De Datos desde cero: Clase 1-install &amp; config" width="100%" /></a><br />
       <a href="https://youtu.be/LGdT1h6pGNs"><strong>Curso de Programación con Python para Análisis De Datos desde cero: Clase 1-install &amp; config</strong></a><br />
-      <sub>27 oct 2026</sub>
+      <sub>71 visualizaciones · 27 oct 2026</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://youtu.be/zfL8lOVdCVA"><img src="https://i.ytimg.com/vi/zfL8lOVdCVA/mqdefault.jpg" alt="Te enseño a descargar e instalar Power BI Desktop como nadie lo hace" width="100%" /></a><br />
       <a href="https://youtu.be/zfL8lOVdCVA"><strong>Te enseño a descargar e instalar Power BI Desktop como nadie lo hace</strong></a><br />
-      <sub>22 oct 2026</sub>
+      <sub>72 visualizaciones · 22 oct 2026</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://youtu.be/-QlhQ7tI1PI"><img src="https://i.ytimg.com/vi/-QlhQ7tI1PI/mqdefault.jpg" alt="descarga e instala 🐘PostgreSQL y pgAdmin 4 en Windows como nadie lo hace" width="100%" /></a><br />
       <a href="https://youtu.be/-QlhQ7tI1PI"><strong>descarga e instala 🐘PostgreSQL y pgAdmin 4 en Windows como nadie lo hace</strong></a><br />
-      <sub>21 oct 2026</sub>
+      <sub>64 visualizaciones · 21 oct 2026</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://youtu.be/9nfpqvmQlmA"><img src="https://i.ytimg.com/vi/9nfpqvmQlmA/mqdefault.jpg" alt="#2 instala Node.js en Linux con WSL en Windows como nadie lo hace" width="100%" /></a><br />
       <a href="https://youtu.be/9nfpqvmQlmA"><strong>#2 instala Node.js en Linux con WSL en Windows como nadie lo hace</strong></a><br />
-      <sub>20 oct 2026</sub>
+      <sub>27 visualizaciones · 20 oct 2026</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://youtu.be/SJqYWyofoqI"><img src="https://i.ytimg.com/vi/SJqYWyofoqI/mqdefault.jpg" alt="Cómo Instalar Node.js en Windows con NVM y Corepack | Evita Errores con pnpm y Yarn" width="100%" /></a><br />
       <a href="https://youtu.be/SJqYWyofoqI"><strong>Cómo Instalar Node.js en Windows con NVM y Corepack | Evita Errores con pnpm y Yarn</strong></a><br />
-      <sub>12 oct 2026</sub>
+      <sub>113 visualizaciones · 12 oct 2026</sub>
     </td>
   </tr>
 </table>

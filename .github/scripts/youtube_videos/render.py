@@ -10,7 +10,7 @@ from __future__ import annotations
 import html
 from typing import Sequence
 
-from .models import Video, format_date, format_duration
+from .models import Video, compact_number, format_date, format_duration
 
 __all__ = ["CELL_WIDTH", "COLUMNS", "escape_text", "render_cards"]
 
@@ -32,14 +32,18 @@ def escape_text(value: str) -> str:
 def _metadata_line(video: Video) -> str:
     """Build the metadata line shown under the title.
 
-    Unknown parts are omitted; the remaining ones keep the order duration,
-    date. The view count is deliberately NOT rendered: it is a live counter
-    that changes between two runs of the script, which would make the
-    generated block differ every time and defeat the "commit only when the
-    block actually changed" rule. The value remains available in the JSON
-    summary.
+    Unknown parts are omitted; the remaining ones keep the order views,
+    duration, date.
+
+    The view count is a live counter, so the generated block differs on
+    every run once a video gets an extra view. That is accepted on purpose:
+    the workflow runs weekly and refreshing the counters is part of what the
+    README is for. The cost is one commit per run instead of one commit per
+    new upload.
     """
     parts = []
+    if video.view_count is not None:
+        parts.append(f"{compact_number(video.view_count)} visualizaciones")
     if video.duration_seconds is not None:
         parts.append(format_duration(video.duration_seconds))
     parts.append(format_date(video.published_at))
