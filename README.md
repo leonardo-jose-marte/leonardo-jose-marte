@@ -7,14 +7,14 @@
 </div>-->
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/youtube-subscribers.svg"/></a>
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/youtube-views.svg"/></a>
-      <a href="https://x.com/ForrestPKnight">
-         <img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/x-follow.svg"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/github-stars.svg"/></a>
+      <a href="https://www.youtube.com/@datacode-dev?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-subscribers.svg"/></a>
+      <a href="https://www.youtube.com/@datacode-dev">
+         <img alt="youtube views" title="YouTube views" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-views.svg"/></a>
+      <a href="https://x.com/LeitoRCC">
+         <img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/x-follow.svg"/></a>
+      <a href="https://github.com/leonardo-jose-marte?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-stars.svg"/></a>
    </p>
 
 ---
@@ -60,12 +60,11 @@ Busco integrarme a un equipo donde pueda aplicar mis conocimientos técnicos y m
 
 <strong>Mis Redes Sociales</strong>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/) ![TikTok](https://img.shields.io/badge/leonardotm1-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/Leonardo.adames-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/) ![TikTok](https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/Leonardo Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 </details>
 
 <br>
 
-<details>
 <summary style="cursor: pointer;">
     <h3 style="display: inline;">
       <picture>
@@ -131,10 +130,8 @@ Busco integrarme a un equipo donde pueda aplicar mis conocimientos técnicos y m
     <td><img width="64" src="https://github.com/user-attachments/assets/1b3109f1-ffa2-41f5-b3ea-683f8790ecce" /></td>
   </tr>
 </table>
-</details>
 
 <br>
-
 
 #
 

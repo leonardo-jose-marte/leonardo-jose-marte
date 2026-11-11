@@ -16,9 +16,11 @@ import sys
 import urllib.request
 from pathlib import Path
 
-YOUTUBE_CHANNEL_ID = "UC2WHjPDvbE6O328n17ZGcfg"
-GITHUB_USER = "ForrestKnight"
-X_HANDLE = "ForrestPKnight"
+# Public profile data. Every value can be overridden from the environment so
+# that the workflow and a local run stay in sync without editing this file.
+YOUTUBE_CHANNEL_ID = os.environ.get("YOUTUBE_CHANNEL_ID", "UCeJfqKpQiBVbrLBUvk-pMFg")
+GITHUB_USER = os.environ.get("GITHUB_USER", "leonardo-jose-marte")
+X_HANDLE = os.environ.get("X_HANDLE", "LeitoRCC")
 ASSETS = Path(__file__).resolve().parents[2] / ".github" / "assets"
 
 # Verdana 10px advance widths for ASCII 32..126 (anafanafo 2.0.0).
@@ -124,6 +126,19 @@ def write(name, svg):
     (ASSETS / name).write_text(svg)
 
 
+def write_placeholder(name, label, icon, label_bg, value_bg):
+    """Write an empty badge when a source has never produced a real one.
+
+    A missing file renders as a broken image on the README, and a badge left
+    behind by a previous owner would show somebody else's numbers. A
+    placeholder is neither: it is obviously empty and it self-heals on the
+    first successful run.
+    """
+    path = ASSETS / name
+    if not path.exists():
+        write(name, badge(label, "—", icon, label_bg, value_bg))
+
+
 def main():
     ASSETS.mkdir(parents=True, exist_ok=True)
     failed = False
@@ -139,6 +154,8 @@ def main():
     except Exception as e:  # type name only, so nothing request-related reaches the logs
         print(f"YouTube stats failed: {type(e).__name__}")
         failed = True
+        write_placeholder("youtube-subscribers.svg", "Subscribe", ICON_PLAY, "#CE4630", "#E05D44")
+        write_placeholder("youtube-views.svg", "Views", ICON_EYE, "#C79600", "#E1AD0E")
 
     try:
         stars = github_stars()
@@ -147,6 +164,7 @@ def main():
     except Exception as e:
         print(f"GitHub stars failed: {type(e).__name__}")
         failed = True
+        write_placeholder("github-stars.svg", "Stars", ICON_STAR, "#488207", "#55960C")
 
     sys.exit(1 if failed else 0)
 

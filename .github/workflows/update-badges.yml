@@ -1,0 +1,65 @@
+name: Update README Profile Badges
+
+# Regenerates the profile badges in .github/assets: YouTube subscribers and
+# views, total GitHub stars and the X handle. Each source is independent, so
+# one failing does not stop the others from being refreshed.
+
+on:
+  schedule:
+    # Weekly, Saturdays at 17:15 local time (15 minutes after the video
+    # cards, so the two workflows never push at the same moment).
+    # The author runs on SA Western Standard Time (UTC-4, no daylight
+    # saving), so 17:15 local is 21:15 UTC year-round.
+    - cron: '15 21 * * 6'
+  workflow_dispatch:
+
+concurrency:
+  group: update-readme-badges
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Required to push the regenerated badges back to this repository.
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # A full history is needed so that `git pull --rebase` can fold in a
+          # manual edit made while this job was running.
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate badges
+        # The script exits non-zero when a source fails but still writes the
+        # badges it could produce, so a YouTube outage must not block the
+        # GitHub and X badges from being committed.
+        continue-on-error: true
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID: ${{ vars.YOUTUBE_CHANNEL_ID || 'UCeJfqKpQiBVbrLBUvk-pMFg' }}
+          GITHUB_USER: leonardo-jose-marte
+          X_HANDLE: LeitoRCC
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python .github/scripts/profile_badges.py
+
+      - name: Commit
+        run: |
+          if git diff --quiet -- .github/assets; then
+            echo "Badges are already up to date; nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/assets
+          git commit -m "chore(assets): refresh the profile badges"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push
