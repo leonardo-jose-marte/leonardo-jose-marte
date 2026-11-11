@@ -23,7 +23,6 @@
 
 <br><br>
 
-<>
   <summary style="cursor: pointer;">
     <h3 style="display: inline;">
       <picture>

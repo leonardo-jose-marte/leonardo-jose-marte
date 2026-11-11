@@ -658,3 +658,76 @@ def _stub_videos() -> list[Video]:
             published_at=datetime(2026, 11, 9, 12, 0, 0, tzinfo=UTC),
         ),
     ]
+
+
+# --------------------------------------------------------------------------- #
+# weekly rollover
+# --------------------------------------------------------------------------- #
+def build_feed(entries: list[tuple[str, str, str]]) -> str:
+    """Build an Atom feed with the given (video_id, published, title) triples."""
+    body = "\n".join(
+        f"""  <entry>
+    <id>yt:video:{video_id}</id>
+    <yt:videoId>{video_id}</yt:videoId>
+    <yt:channelId>UCeJfqKpQiBVbrLBUvk-pMFg</yt:channelId>
+    <title>{title}</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v={video_id}"/>
+    <published>{published}</published>
+    <updated>{published}</updated>
+    <media:group>
+      <media:title>{title}</media:title>
+      <media:thumbnail url="https://i2.ytimg.com/vi/{video_id}/hqdefault.jpg" width="480" height="360"/>
+      <media:community>
+        <media:starRating count="10" average="5.00" min="1" max="5"/>
+        <media:statistics views="100"/>
+      </media:community>
+    </media:group>
+  </entry>"""
+        for video_id, published, title in entries
+    )
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015"\n'
+        '      xmlns:media="http://search.yahoo.com/mrss/"\n'
+        '      xmlns="http://www.w3.org/2005/Atom">\n'
+        "  <title>DataCode</title>\n"
+        f"{body}\n"
+        "</feed>\n"
+    )
+
+
+def test_a_new_upload_pushes_the_oldest_video_out_of_the_grid():
+    """The grid always shows the six newest uploads and rolls over.
+
+    This is the weekly behaviour of the README: the feed is fetched fresh
+    on every run, sorted newest first and cut to six, so a new upload
+    becomes the first card and the video that was sixth disappears.
+    """
+    week_one = [
+        ("aaaaaaaaaaa", "2026-11-10T18:00:07+00:00", "Video A"),
+        ("bbbbbbbbbbb", "2026-11-09T18:00:07+00:00", "Video B"),
+        ("ccccccccccc", "2026-11-08T18:00:07+00:00", "Video C"),
+        ("ddddddddddd", "2026-11-07T18:00:07+00:00", "Video D"),
+        ("eeeeeeeeeee", "2026-11-06T18:00:07+00:00", "Video E"),
+        ("fffffffffff", "2026-11-05T18:00:07+00:00", "Video F"),
+        ("ggggggggggg", "2026-11-04T18:00:07+00:00", "Video G"),
+    ]
+
+    first = render_cards(parse_rss_feed(build_feed(week_one), 6))
+
+    assert first.index("aaaaaaaaaaa") < first.index("bbbbbbbbbbb")
+    assert "ffffffffff" in first  # the sixth video is still on the grid
+    assert "ggggggggggg" not in first  # the seventh never made it in
+    assert first.count("<td ") == 6
+
+    # The next week a new video is published.
+    week_two = [("zzzzzzzzzzz", "2026-11-11T18:00:07+00:00", "Video Z")] + week_one
+
+    second = render_cards(parse_rss_feed(build_feed(week_two), 6))
+
+    assert "zzzzzzzzzzz" in second  # the new upload is on the grid
+    assert second.index("zzzzzzzzzzz") < second.index("aaaaaaaaaaa")
+    assert "ffffffffff" not in second  # the oldest one fell out
+    assert "eeeeeeeeeee" in second  # the fifth moved down but stayed
+    assert second.count("<td ") == 6
+    assert second.count("<tr>") == 2
