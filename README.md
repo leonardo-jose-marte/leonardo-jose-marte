@@ -141,12 +141,44 @@ Busco integrarme a un equipo donde pueda aplicar mis conocimientos técnicos y m
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![I Looked Into How Devs Are Actually Using AI](https://ytcards.demolab.com/?id=qCheZDyFX2U&title=I+Looked+Into+How+Devs+Are+Actually+Using+AI&lang=en&timestamp=1794235521&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1116 "I Looked Into How Devs Are Actually Using AI")](https://www.youtube.com/watch?v=qCheZDyFX2U)
-[![So I've Been Using Omarchy for 357 Days...](https://ytcards.demolab.com/?id=C7-cYjdmI2s&title=So+I%27ve+Been+Using+Omarchy+for+357+Days...&lang=en&timestamp=1792767632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2454 "So I've Been Using Omarchy for 357 Days...")](https://www.youtube.com/watch?v=C7-cYjdmI2s)
-[![Why Companies Are Still On Java 8](https://ytcards.demolab.com/?id=4ubVtKwaoI8&title=Why+Companies+Are+Still+On+Java+8&lang=en&timestamp=1791985507&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1023 "Why Companies Are Still On Java 8")](https://www.youtube.com/watch?v=4ubVtKwaoI8)
-[![Man, I love Java...](https://ytcards.demolab.com/?id=29k3eay4Lr4&title=Man%2C+I+love+Java...&lang=en&timestamp=1789574425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=628 "Man, I love Java...")](https://www.youtube.com/watch?v=29k3eay4Lr4)
-[![Why Every Company Copied Netflix's Architecture (And Shouldn't Have)](https://ytcards.demolab.com/?id=I_of74HSHiA&title=Why+Every+Company+Copied+Netflix%27s+Architecture+%28And+Shouldn%27t+Have%29&lang=en&timestamp=1789417232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1332 "Why Every Company Copied Netflix's Architecture (And Shouldn't Have)")](https://www.youtube.com/watch?v=I_of74HSHiA)
-[![Why Rust Can't Replace C++](https://ytcards.demolab.com/?id=QNPwKMOQIKM&title=Why+Rust+Can%27t+Replace+C%2B%2B&lang=en&timestamp=1788354914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=990 "Why Rust Can't Replace C++")](https://www.youtube.com/watch?v=QNPwKMOQIKM)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://youtu.be/uekN_XPSeeI"><img src="https://i.ytimg.com/vi/uekN_XPSeeI/mqdefault.jpg" alt="Clase 1: Te enseño a instalar y configurar Go (Golang) en Windows como nadie lo hace" width="100%" /></a><br />
+      <a href="https://youtu.be/uekN_XPSeeI"><strong>Clase 1: Te enseño a instalar y configurar Go (Golang) en Windows como nadie lo hace</strong></a><br />
+      <sub>10 nov 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://youtu.be/LGdT1h6pGNs"><img src="https://i.ytimg.com/vi/LGdT1h6pGNs/mqdefault.jpg" alt="Curso de Programación con Python para Análisis De Datos desde cero: Clase 1-install &amp; config" width="100%" /></a><br />
+      <a href="https://youtu.be/LGdT1h6pGNs"><strong>Curso de Programación con Python para Análisis De Datos desde cero: Clase 1-install &amp; config</strong></a><br />
+      <sub>27 oct 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://youtu.be/zfL8lOVdCVA"><img src="https://i.ytimg.com/vi/zfL8lOVdCVA/mqdefault.jpg" alt="Te enseño a descargar e instalar Power BI Desktop como nadie lo hace" width="100%" /></a><br />
+      <a href="https://youtu.be/zfL8lOVdCVA"><strong>Te enseño a descargar e instalar Power BI Desktop como nadie lo hace</strong></a><br />
+      <sub>22 oct 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://youtu.be/-QlhQ7tI1PI"><img src="https://i.ytimg.com/vi/-QlhQ7tI1PI/mqdefault.jpg" alt="descarga e instala 🐘PostgreSQL y pgAdmin 4 en Windows como nadie lo hace" width="100%" /></a><br />
+      <a href="https://youtu.be/-QlhQ7tI1PI"><strong>descarga e instala 🐘PostgreSQL y pgAdmin 4 en Windows como nadie lo hace</strong></a><br />
+      <sub>21 oct 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://youtu.be/9nfpqvmQlmA"><img src="https://i.ytimg.com/vi/9nfpqvmQlmA/mqdefault.jpg" alt="#2 instala Node.js en Linux con WSL en Windows como nadie lo hace" width="100%" /></a><br />
+      <a href="https://youtu.be/9nfpqvmQlmA"><strong>#2 instala Node.js en Linux con WSL en Windows como nadie lo hace</strong></a><br />
+      <sub>20 oct 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://youtu.be/SJqYWyofoqI"><img src="https://i.ytimg.com/vi/SJqYWyofoqI/mqdefault.jpg" alt="Cómo Instalar Node.js en Windows con NVM y Corepack | Evita Errores con pnpm y Yarn" width="100%" /></a><br />
+      <a href="https://youtu.be/SJqYWyofoqI"><strong>Cómo Instalar Node.js en Windows con NVM y Corepack | Evita Errores con pnpm y Yarn</strong></a><br />
+      <sub>12 oct 2026</sub>
+    </td>
+  </tr>
+</table>
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@datacode-dev)

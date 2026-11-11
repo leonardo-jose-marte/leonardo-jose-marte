@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "youtube-readme-videos"
+version = "0.1.0"
+description = "Render the latest YouTube videos of a channel as a card grid for a profile README."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+update-videos = "youtube_videos.cli:main"
+
+[tool.setuptools]
+package-dir = { "" = ".github/scripts" }
+
+[tool.setuptools.packages.find]
+where = [".github/scripts"]
+include = ["youtube_videos*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = [".github/scripts"]
+addopts = "-q"
