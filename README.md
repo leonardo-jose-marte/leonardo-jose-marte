@@ -103,18 +103,6 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
       <img width="30px" src=".github\assets\icons\ramdon-icon\Tailwind CSS.svg"/>
       <img width="30px" src=".github\assets\icons\prgraming-leng\scss2-svgrepo-com.svg"/>
     </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Microsoft SQL Server 2025 icon.svg"/>
-      <img width="30px" src=".github\assets\icons\database\All-database\duckdb.svg"/>
-      <img width="30px" src=".github\assets\icons\database\All-database\PostgresSQL.svg"/>
-      <img width="30px" src=".github\assets\icons\database\All-database\MySQL.svg"/>
-      <img width="30px" src=".github\assets\icons\database\All-database\supabase.svg"/>
-      <img width="30px" src=".github\assets\icons\database\All-database\MongoDB.svg"/>
-    </kbd>
-    <br>
     <br>
     <kbd>
       <kbd>Automation & Data Science</kbd>
@@ -152,6 +140,18 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
       <img width="30px" src=".github\assets\icons\microsoft-all-icon\Microsoft Office Sharepoint 2025.svg"/>
       <img width="30px" src=".github\assets\icons\microsoft-all-icon\Power Automate.svg"/>
       <img width="30px" src=".github\assets\icons\microsoft-all-icon\Power Apps.svg"/>
+    </kbd>
+	<br>
+	<kbd>
+      <kbd>Database</kbd>
+      <br>
+      <br>
+      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Microsoft SQL Server 2025 icon.svg"/>
+      <img width="30px" src=".github\assets\icons\database\All-database\duckdb.svg"/>
+      <img width="30px" src=".github\assets\icons\database\All-database\PostgresSQL.svg"/>
+      <img width="30px" src=".github\assets\icons\database\All-database\MySQL.svg"/>
+      <img width="30px" src=".github\assets\icons\database\All-database\supabase.svg"/>
+      <img width="30px" src=".github\assets\icons\database\All-database\MongoDB.svg"/>
     </kbd>
     <kbd>
       <kbd>Tools Code and Testing</kbd>
