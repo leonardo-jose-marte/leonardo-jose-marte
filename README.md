@@ -54,8 +54,6 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
 
 <br clear="right"/>
 
----
-
 <br>
 
 <summary style="cursor: pointer;">
