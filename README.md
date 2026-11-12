@@ -21,7 +21,7 @@
 
 ---
 
-<br><br>
+<br>
 
 <details>
 <summary style="cursor: pointer;">
@@ -58,7 +58,7 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
 
 <br>
 
-<summary style="cursor: pointer;">
+<summary>
     <h3 style="display: inline;">
       <picture>
         <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
