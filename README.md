@@ -22,43 +22,6 @@
 ---
 
 <br>
-
-<div align="center">
-	<details>
-	<summary style="cursor: pointer;">
-	    <h3 style="display: inline;">
-	      <picture>
-	        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
-	      </picture>
-	      <strong>SOBRE MÍ</strong>
-	    </h3>
-	  </summary>
-
-  <br>
-  
-  <!-- Aquí va el contenido que quieres ocultar/mostrar -->
-  <!-- Texto a la izquierda, mascota a la derecha. Dentro de una tabla
-       GitHub no procesa markdown, asi que el bloque va en HTML puro. -->
-  <img align="right" src=".github/assets/datacode-mascot-tight.png" width="290" alt="DataCode mascot" />
-
-Analista de Datos y *Business Intelligence* de formación **100% autodidacta** y en **constante evolución**. Combino una sólida *madurez operativa* previa como supervisor y técnico con un dominio técnico continuo en **SQL, Python, Power BI, Excel y Estadística**, transformando datos desordenados en *automatizaciones*, *reportes* y *dashboards estratégicos* (**finanzas, logística, almacén y ventas**).
-
-Mi propuesta de valor es unir la *visión práctica del negocio* con la **precisión analítica**: limpio y estructuro datos (**SQL/Power Query**), diseño *visualizaciones de alto impacto* (**Power BI/DAX/Tableau**) e implemento *análisis avanzados* (**Python**). Como **aprendiz permanente** y *solucionador de problemas*, busco sumarme a un equipo dinámico donde seguir expandiendo mis capacidades y aportar **valor real** desde el primer día.
-
-📩 *¿Conversamos sobre cómo mi perfil puede potenciar tu organización? Contáctame por mensaje directo.*
-
-**Mis Redes Sociales**
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/)
-[![TikTok](https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@datacodeacademy)
-[![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leonardotm1)
-[![Facebook](https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Leonardo.Marte)
-
-<br clear="right"/>
-	</details>
-</div>
-
-<br>
 <div align="center">
 <summary>
     <h3 style="display: inline;">
@@ -232,16 +195,17 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@datacode-dev)
 
 <br>
-<hr>
-<br>
-<summary style="cursor: pointer;">
-    <h3 style="display: inline;">
-      <picture>
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
-      </picture>
-      <strong>MIS CERTIFICACIONES</strong>
-    </h3>
-  </summary>
+
+<div align="center">
+	<summary style="cursor: pointer;">
+	    <h3 style="display: inline;">
+	      <picture>
+	        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
+	      </picture>
+	      <strong>MIS CERTIFICACIONES</strong>
+	    </h3>
+	  </summary>
+  </div>
 
 <table align="center">
   <tr>
@@ -267,7 +231,7 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
     </td>
   </tr>
   <tr>
-    <!--<td align="center">
+    <td align="center">
       <a href="https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II.pdf" target="_blank">
         <img src="https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge" alt="Data Science Toolbox - II">
       </a>
@@ -288,4 +252,40 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
       </a>
     </td>
   </tr>
-</table>-->
+</table>
+
+---
+
+<br>
+
+<div align="center">
+	<details>
+	<summary style="cursor: pointer;">
+	    <h3 style="display: inline;">
+	      <picture>
+	        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
+	      </picture>
+	      <strong>SOBRE MÍ</strong>
+	    </h3>
+	  </summary>
+
+  <br>
+  
+<img align="right" src=".github/assets/datacode-mascot-tight.png" width="290" alt="DataCode mascot" />
+
+Analista de Datos y *Business Intelligence* de formación **100% autodidacta** y en **constante evolución**. Combino una sólida *madurez operativa* previa como supervisor y técnico con un dominio técnico continuo en **SQL, Python, Power BI, Excel y Estadística**, transformando datos desordenados en *automatizaciones*, *reportes* y *dashboards estratégicos* (**finanzas, logística, almacén y ventas**).
+
+Mi propuesta de valor es unir la *visión práctica del negocio* con la **precisión analítica**: limpio y estructuro datos (**SQL/Power Query**), diseño *visualizaciones de alto impacto* (**Power BI/DAX/Tableau**) e implemento *análisis avanzados* (**Python**). Como **aprendiz permanente** y *solucionador de problemas*, busco sumarme a un equipo dinámico donde seguir expandiendo mis capacidades y aportar **valor real** desde el primer día.
+
+📩 *¿Conversamos sobre cómo mi perfil puede potenciar tu organización? Contáctame por mensaje directo.*
+
+**Mis Redes Sociales**
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/)
+[![TikTok](https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@datacodeacademy)
+[![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leonardotm1)
+[![Facebook](https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Leonardo.Marte)
+
+<br clear="right"/>
+	</details>
+</div>
