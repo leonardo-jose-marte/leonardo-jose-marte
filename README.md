@@ -83,30 +83,25 @@
       <img width="30px" src=".github\assets\icons\prgraming-leng\js-svgrepo-com.svg"/>
       <img width="30" src=".github\assets\icons\prgraming-leng\typescript-svgrepo-com.svg"/>
       <img width="30" src=".github\assets\icons\microsoft-all-icon\SQL-Database.svg"/>
-      <img width="30px" src=".github\assets\icons\prgraming-leng\html-5-svgrepo-com.svg"/>
-      <img width="30px" src=".github\assets\icons\prgraming-leng\css-3-svgrepo-com.svg"/>
     </kbd>
-    <!--<kbd>
+    <kbd>
       <kbd>Back-end</kbd>
       <br>
       <br>
-      <img width="30px" src=".github\assets\icons\prgraming-leng\node-js-svgrepo-com.svg"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="django" title="Django"/>-->
-      <!--<img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>-->
-      <!--<img width="30" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="Websocket"/>-->
-	    <!--<img width="30" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>-->
-	    <!--<img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>-->
-	    <!--<img width="30" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/>
-    </kbd>
+      <img width="30px" src=".github\assets\icons\ramdon-icon\nodedotjs.svg"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon\express.svg"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon\Django.svg"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon\FastAPI.svg"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon\websocket-glass.svg"/>
+	    <img width="30" src=".github\assets\icons\microsoft-all-icon\dotnet.svg"/>
+    <!--</kbd>
      <kbd>
       <kbd>Mobile</kbd>
       <br>
       <br>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" alt="swift" title="SwiftUI"/>
     </kbd>-->
-    <!--<kbd>
+    <kbd>
       <kbd>Front-end</kbd>
       <br>
       <br>
@@ -114,8 +109,9 @@
       <img width="30px" src=".github\assets\icons\prgraming-leng\css-3-svgrepo-com.svg"/>
       <img width="30px" src=".github\assets\icons\prgraming-leng\react-svgrepo-com.svg"/>
       <img width="30px" src=".github\assets\icons\ramdon-icon\Bootstrap.svg"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon\Tailwind CSS.svg"/>
       <img width="30px" src=".github\assets\icons\prgraming-leng\scss2-svgrepo-com.svg"/>
-    </kbd>-->
+    </kbd>
     <kbd>
       <kbd>Database</kbd>
       <br>
@@ -138,6 +134,7 @@
       <img width="30" src=".github\assets\icons\prgraming-leng\airflow-svgrepo-com.svg"/>
       <img width="30px" src=".github\assets\icons\ramdon-icon\numpy-svgrepo-com.svg"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon\GeoPandas Symbol SVG.svg"/>
       <img width="30px" src=".github\assets\icons\ramdon-icon\scikit-learn.svg"/>
       <img width="30px" src=".github\assets\icons\ramdon-icon\statsmodels-logo-v2-no-text.svg"/>
     </kbd>
@@ -151,6 +148,7 @@
 	    <img width="30" src=".github\assets\icons\ramdon-icon\Matplotlib.svg"/>
       <img width="30" src=".github\assets\icons\prgraming-leng\svg.svg"/>
       <img width="30" src=".github\assets\icons\libraries\d3dotjs.svg">
+      <img width="30" src=".github\assets\icons\libraries\chartjs.svg"/>
     </kbd>
     <kbd>
       <kbd>ETL, EDA & BI</kbd>
@@ -239,3 +237,62 @@
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@datacode-dev)
+
+<br>
+<hr>
+<br>
+<summary style="cursor: pointer;">
+    <h3 style="display: inline;">
+      <picture>
+        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
+      </picture>
+      <strong>MIS CERTIFICACIONES</strong>
+    </h3>
+  </summary>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="docs\certificados\certificado de educación secundaria.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Educación%20to%20Psecundaria-red?style=for-the-badge" alt="educación secundaria">
+      </a>
+    </td>
+    <td align="center">
+      <a href="docs\certificados\Certificado-arquitecura.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Softtware Architec%20Fundamentals-blue?style=for-the-badge" alt="Softtware Architec Fundamentals">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.commitacademy.io/app/verify-certificate/cert_NJR1mGVyvv" target="_blank">
+        <img src="https://img.shields.io/badge/Cloud%20Fundamentals%20Width%20AWS-green?style=for-the-badge" alt="Machine Learning for Everyone">
+      </a>
+    </td>
+    <td align="center">
+      <a href="docs\certificados\curso-Ciencia-de-datos.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Data%20Science%20Fundamentals%20-I-orange?style=for-the-badge" alt="Data Science Fundamentals - I">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!--<td align="center">
+      <a href="https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge" alt="Data Science Toolbox - II">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge" alt="Statistical Thinking in Python">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge" alt="Supervised Learning with Sklearn">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Aryagm" target="_blank">
+        <img src="https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge" alt="More on the Way!">
+      </a>
+    </td>
+  </tr>
+</table>-->

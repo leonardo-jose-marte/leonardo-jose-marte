@@ -1,5 +1,6 @@
-# Credenciales y notas locales (NUNCA commitear)
-docs/
+# notas locales (NUNCA commitear)
+docs/data.txt
+docs/README-example.md
 
 # Feature tracking local de ODD (la copia de recuperación vive en Engram)
 odd/
@@ -20,3 +21,4 @@ venv/
 .DS_Store
 Thumbs.db
 .atl/s
+.github/assets/icons/ramdon-icon/Mago.Studio-0.19.3.Setup.exe
