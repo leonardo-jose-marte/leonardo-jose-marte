@@ -23,6 +23,7 @@
 
 <br><br>
 
+<details>
 <summary style="cursor: pointer;">
     <h3 style="display: inline;">
       <picture>
@@ -33,7 +34,7 @@
   </summary>
 
   <br>
-
+  
   <!-- Aquí va el contenido que quieres ocultar/mostrar -->
   <!-- Texto a la izquierda, mascota a la derecha. Dentro de una tabla
        GitHub no procesa markdown, asi que el bloque va en HTML puro. -->
@@ -53,6 +54,7 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
 [![Facebook](https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Leonardo.Marte)
 
 <br clear="right"/>
+</details>
 
 <br>
 
