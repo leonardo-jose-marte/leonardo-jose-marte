@@ -23,15 +23,16 @@
 
 <br>
 
-<details>
-<summary style="cursor: pointer;">
-    <h3 style="display: inline;">
-      <picture>
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
-      </picture>
-      <strong>SOBRE MÍ</strong>
-    </h3>
-  </summary>
+<div align="center">
+	<details>
+	<summary style="cursor: pointer;">
+	    <h3 style="display: inline;">
+	      <picture>
+	        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
+	      </picture>
+	      <strong>SOBRE MÍ</strong>
+	    </h3>
+	  </summary>
 
   <br>
   
@@ -54,10 +55,11 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
 [![Facebook](https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Leonardo.Marte)
 
 <br clear="right"/>
-</details>
+	</details>
+</div>
 
 <br>
-
+<div align="center">
 <summary>
     <h3 style="display: inline;">
       <picture>
@@ -66,7 +68,7 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
       <strong>MIS HABILIDADES & HERRAMIENTAS</strong>
     </h3>
   </summary>
-
+</div>
 <br>
 
 <div align="center">
