@@ -35,15 +35,27 @@
   <br>
 
   <!-- Aquí va el contenido que quieres ocultar/mostrar -->
-Analista de Datos y *Business Intelligence* de formación **100% autodidacta** y en **constante evolución**. Combino una sólida *madurez operativa* previa como supervisor y técnico con un dominio técnico continuo en **SQL, Python, Power BI, Excel y Estadística**, transformando datos desordenados en *automatizaciones*, *reportes* y *dashboards estratégicos* (**finanzas, logística, almacén y ventas**).
-
-Mi propuesta de valor es unir la *visión práctica del negocio* con la **precisión analítica**: limpio y estructuro datos (**SQL/Power Query**), diseño *visualizaciones de alto impacto* (**Power BI/DAX/Tableau**) e implemento *análisis avanzados* (**Python**). Como **aprendiz permanente** y *solucionador de problemas*, busco sumarme a un equipo dinámico donde seguir expandiendo mis capacidades y aportar **valor real** desde el primer día.
-
-📩 *¿Conversamos sobre cómo mi perfil puede potenciar tu organización? Contáctame por mensaje directo.*
-
-<strong>Mis Redes Sociales</strong>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/) ![TikTok](https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+  <!-- Texto a la izquierda, mascota a la derecha. Dentro de una tabla
+       GitHub no procesa markdown, asi que el bloque va en HTML puro. -->
+  <table>
+    <tr>
+      <td valign="top" width="62%">
+        <p>Analista de Datos y <em>Business Intelligence</em> de formación <strong>100% autodidacta</strong> y en <strong>constante evolución</strong>. Combino una sólida <em>madurez operativa</em> previa como supervisor y técnico con un dominio técnico continuo en <strong>SQL, Python, Power BI, Excel y Estadística</strong>, transformando datos desordenados en <em>automatizaciones</em>, <em>reportes</em> y <em>dashboards estratégicos</em> (<strong>finanzas, logística, almacén y ventas</strong>).</p>
+        <p>Mi propuesta de valor es unir la <em>visión práctica del negocio</em> con la <strong>precisión analítica</strong>: limpio y estructuro datos (<strong>SQL/Power Query</strong>), diseño <em>visualizaciones de alto impacto</em> (<strong>Power BI/DAX/Tableau</strong>) e implemento <em>análisis avanzados</em> (<strong>Python</strong>). Como <strong>aprendiz permanente</strong> y <em>solucionador de problemas</em>, busco sumarme a un equipo dinámico donde seguir expandiendo mis capacidades y aportar <strong>valor real</strong> desde el primer día.</p>
+        <p>📩 <em>¿Conversamos sobre cómo mi perfil puede potenciar tu organización? Contáctame por mensaje directo.</em></p>
+        <strong>Mis Redes Sociales</strong>
+        <p>
+          <a href="https://www.linkedin.com/in/leonardo-marte-b46ba43ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+          <a href="https://www.tiktok.com/@datacodeacademy"><img alt="TikTok" src="https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+          <a href="https://www.instagram.com/leonardotm1"><img alt="Instagram" src="https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+          <a href="https://www.facebook.com/Leonardo.Marte"><img alt="Facebook" src="https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+        </p>
+      </td>
+      <td valign="top" align="center" width="38%">
+        <img src=".github/assets/datacode-mascot-tight.png" width="290" alt="DataCode mascot" />
+      </td>
+    </tr>
+  </table>
 
 ---
 
