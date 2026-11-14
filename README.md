@@ -1,28 +1,37 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%ffffff&size=30&center=true&vCenter=true&height=30&width=600&lines=WELCOME+TO+MY+PROFILE...!" alt="Title">
+</div>
+
 <img width="100%" height="100%" alt="readme-header" src=".github\assets\readme-header.svg" />
 
+   <p align="center"><a href="https://www.youtube.com/@datacode-dev?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-subscribers.svg"/></a> <a href="https://www.youtube.com/@datacode-dev"><img alt="youtube views" title="YouTube views" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-views.svg"/></a> <a href="https://x.com/LeitoRCC"><img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/x-follow.svg"/></a> <a href="https://github.com/leonardo-jose-marte?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-stars.svg"/></a> <a href="https://github.com/leonardo-jose-marte?tab=followers"><img alt="github followers" title="Followers on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-followers.svg"/></a> <a href="https://www.linkedin.com/in/leonardo-marte-b46ba43ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.tiktok.com/@datacodeacademy"><img src="https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/></a> <a href="https://www.instagram.com/leonardotm1"><img src="https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> <a href="https://www.facebook.com/Leonardo.Marte"><img src="https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a></p>
+
+
+
+<div align="left">
+	<summary style="cursor: pointer;">
+	    <h3 style="display: inline;">
+	      <picture>
+	        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
+	      </picture>
+	      <strong>SOBRE MÍ</strong>
+	    </h3>
+	  </summary>
+
+  <br>
+  
+<img align="right" src=".github/assets/datacode-mascot-tight.png" width="290" alt="DataCode mascot" />
+
+Analista de Datos y *Business Intelligence* de formación **100% autodidacta** y en **constante evolución**. Combino una sólida *madurez operativa* previa como supervisor y técnico con un dominio técnico continuo en **SQL, Python, Power BI, Excel y Estadística**, transformando datos desordenados en *automatizaciones*, *reportes* y *dashboards estratégicos* (**finanzas, logística, almacén y ventas**).
+
+Mi propuesta de valor es unir la *visión práctica del negocio* con la **precisión analítica**: limpio y estructuro datos (**SQL/Power Query**), diseño *visualizaciones de alto impacto* (**Power BI/DAX/Tableau**) e implemento *análisis avanzados* (**Python**). Como **aprendiz permanente** y *solucionador de problemas*, busco sumarme a un equipo dinámico donde seguir expandiendo mis capacidades y aportar **valor real** desde el primer día.
+
+<br clear="right"/>
+</div>
+
 <br>
 
-<!--<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%ffffff&size=30&center=true&vCenter=true&height=30&width=600&lines=Bienvenidos+a+mi+perfil!" alt="Title">
-</div>-->
-
-   <p align="center">
-      <a href="https://www.youtube.com/@datacode-dev?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-subscribers.svg"/></a>
-      <a href="https://www.youtube.com/@datacode-dev">
-         <img alt="youtube views" title="YouTube views" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-views.svg"/></a>
-      <a href="https://x.com/LeitoRCC">
-         <img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/x-follow.svg"/></a>
-      <a href="https://github.com/leonardo-jose-marte?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-stars.svg"/></a>
-      <a href="https://github.com/leonardo-jose-marte?tab=followers">
-         <img alt="github followers" title="Followers on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-followers.svg"/></a>
-   </p>
-
----
-
-<br>
-<div align="center">
+<div align="left">
 <summary>
     <h3 style="display: inline;">
       <picture>
@@ -34,7 +43,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="left">
   <p style="display: inline-block;" align="center">
     <kbd>
       <kbd>Programming Languages & Database</kbd>
@@ -161,56 +170,6 @@
 
 <br>
 
-#
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://youtu.be/uekN_XPSeeI"><img src="https://i.ytimg.com/vi/uekN_XPSeeI/mqdefault.jpg" alt="Clase 1: Te enseño a instalar y configurar Go (Golang) en Windows como nadie lo hace" width="100%" /></a><br />
-      <a href="https://youtu.be/uekN_XPSeeI"><strong>Clase 1: Te enseño a instalar y configurar Go (Golang) en Windows como nadie lo hace</strong></a><br />
-      <sub>20 visualizaciones · 10 nov 2026</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://youtu.be/LGdT1h6pGNs"><img src="https://i.ytimg.com/vi/LGdT1h6pGNs/mqdefault.jpg" alt="Curso de Programación con Python para Análisis De Datos desde cero: Clase 1-install &amp; config" width="100%" /></a><br />
-      <a href="https://youtu.be/LGdT1h6pGNs"><strong>Curso de Programación con Python para Análisis De Datos desde cero: Clase 1-install &amp; config</strong></a><br />
-      <sub>71 visualizaciones · 27 oct 2026</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://youtu.be/zfL8lOVdCVA"><img src="https://i.ytimg.com/vi/zfL8lOVdCVA/mqdefault.jpg" alt="Te enseño a descargar e instalar Power BI Desktop como nadie lo hace" width="100%" /></a><br />
-      <a href="https://youtu.be/zfL8lOVdCVA"><strong>Te enseño a descargar e instalar Power BI Desktop como nadie lo hace</strong></a><br />
-      <sub>72 visualizaciones · 22 oct 2026</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://youtu.be/-QlhQ7tI1PI"><img src="https://i.ytimg.com/vi/-QlhQ7tI1PI/mqdefault.jpg" alt="descarga e instala 🐘PostgreSQL y pgAdmin 4 en Windows como nadie lo hace" width="100%" /></a><br />
-      <a href="https://youtu.be/-QlhQ7tI1PI"><strong>descarga e instala 🐘PostgreSQL y pgAdmin 4 en Windows como nadie lo hace</strong></a><br />
-      <sub>64 visualizaciones · 21 oct 2026</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://youtu.be/9nfpqvmQlmA"><img src="https://i.ytimg.com/vi/9nfpqvmQlmA/mqdefault.jpg" alt="#2 instala Node.js en Linux con WSL en Windows como nadie lo hace" width="100%" /></a><br />
-      <a href="https://youtu.be/9nfpqvmQlmA"><strong>#2 instala Node.js en Linux con WSL en Windows como nadie lo hace</strong></a><br />
-      <sub>27 visualizaciones · 20 oct 2026</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://youtu.be/SJqYWyofoqI"><img src="https://i.ytimg.com/vi/SJqYWyofoqI/mqdefault.jpg" alt="Cómo Instalar Node.js en Windows con NVM y Corepack | Evita Errores con pnpm y Yarn" width="100%" /></a><br />
-      <a href="https://youtu.be/SJqYWyofoqI"><strong>Cómo Instalar Node.js en Windows con NVM y Corepack | Evita Errores con pnpm y Yarn</strong></a><br />
-      <sub>114 visualizaciones · 12 oct 2026</sub>
-    </td>
-  </tr>
-</table>
-<!-- END YOUTUBE-CARDS -->
-
-<div align="center">
-
-  [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@datacode-dev)
-
-</div>
-<br>
-
 <div align="center">
 	<summary style="cursor: pointer;">
 	    <h3 style="display: inline;">
@@ -269,38 +228,56 @@
   </tr>
 </table>
 
+#
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://youtu.be/uekN_XPSeeI"><img src="https://i.ytimg.com/vi/uekN_XPSeeI/mqdefault.jpg" alt="Clase 1: Te enseño a instalar y configurar Go (Golang) en Windows como nadie lo hace" width="100%" /></a><br />
+      <a href="https://youtu.be/uekN_XPSeeI"><strong>Clase 1: Te enseño a instalar y configurar Go (Golang) en Windows como nadie lo hace</strong></a><br />
+      <sub>20 visualizaciones · 10 nov 2026</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://youtu.be/LGdT1h6pGNs"><img src="https://i.ytimg.com/vi/LGdT1h6pGNs/mqdefault.jpg" alt="Curso de Programación con Python para Análisis De Datos desde cero: Clase 1-install &amp; config" width="100%" /></a><br />
+      <a href="https://youtu.be/LGdT1h6pGNs"><strong>Curso de Programación con Python para Análisis De Datos desde cero: Clase 1-install &amp; config</strong></a><br />
+      <sub>71 visualizaciones · 27 oct 2026</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://youtu.be/zfL8lOVdCVA"><img src="https://i.ytimg.com/vi/zfL8lOVdCVA/mqdefault.jpg" alt="Te enseño a descargar e instalar Power BI Desktop como nadie lo hace" width="100%" /></a><br />
+      <a href="https://youtu.be/zfL8lOVdCVA"><strong>Te enseño a descargar e instalar Power BI Desktop como nadie lo hace</strong></a><br />
+      <sub>72 visualizaciones · 22 oct 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://youtu.be/-QlhQ7tI1PI"><img src="https://i.ytimg.com/vi/-QlhQ7tI1PI/mqdefault.jpg" alt="descarga e instala 🐘PostgreSQL y pgAdmin 4 en Windows como nadie lo hace" width="100%" /></a><br />
+      <a href="https://youtu.be/-QlhQ7tI1PI"><strong>descarga e instala 🐘PostgreSQL y pgAdmin 4 en Windows como nadie lo hace</strong></a><br />
+      <sub>64 visualizaciones · 21 oct 2026</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://youtu.be/9nfpqvmQlmA"><img src="https://i.ytimg.com/vi/9nfpqvmQlmA/mqdefault.jpg" alt="#2 instala Node.js en Linux con WSL en Windows como nadie lo hace" width="100%" /></a><br />
+      <a href="https://youtu.be/9nfpqvmQlmA"><strong>#2 instala Node.js en Linux con WSL en Windows como nadie lo hace</strong></a><br />
+      <sub>27 visualizaciones · 20 oct 2026</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://youtu.be/SJqYWyofoqI"><img src="https://i.ytimg.com/vi/SJqYWyofoqI/mqdefault.jpg" alt="Cómo Instalar Node.js en Windows con NVM y Corepack | Evita Errores con pnpm y Yarn" width="100%" /></a><br />
+      <a href="https://youtu.be/SJqYWyofoqI"><strong>Cómo Instalar Node.js en Windows con NVM y Corepack | Evita Errores con pnpm y Yarn</strong></a><br />
+      <sub>114 visualizaciones · 12 oct 2026</sub>
+    </td>
+  </tr>
+</table>
+<!-- END YOUTUBE-CARDS -->
+
+<div align="center">
+
+  [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@datacode-dev)
+
+</div>
+
 ---
 
 <br>
 
-<div align="center">
-	<details>
-	<summary style="cursor: pointer;">
-	    <h3 style="display: inline;">
-	      <picture>
-	        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
-	      </picture>
-	      <strong>SOBRE MÍ</strong>
-	    </h3>
-	  </summary>
-
-  <br>
-  
-<img align="right" src=".github/assets/datacode-mascot-tight.png" width="290" alt="DataCode mascot" />
-
-Analista de Datos y *Business Intelligence* de formación **100% autodidacta** y en **constante evolución**. Combino una sólida *madurez operativa* previa como supervisor y técnico con un dominio técnico continuo en **SQL, Python, Power BI, Excel y Estadística**, transformando datos desordenados en *automatizaciones*, *reportes* y *dashboards estratégicos* (**finanzas, logística, almacén y ventas**).
-
-Mi propuesta de valor es unir la *visión práctica del negocio* con la **precisión analítica**: limpio y estructuro datos (**SQL/Power Query**), diseño *visualizaciones de alto impacto* (**Power BI/DAX/Tableau**) e implemento *análisis avanzados* (**Python**). Como **aprendiz permanente** y *solucionador de problemas*, busco sumarme a un equipo dinámico donde seguir expandiendo mis capacidades y aportar **valor real** desde el primer día.
-
-📩 *¿Conversamos sobre cómo mi perfil puede potenciar tu organización? Contáctame por mensaje directo.*
-
-**Mis Redes Sociales**
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marte-b46ba43ba/)
-[![TikTok](https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@datacodeacademy)
-[![Instagram](https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leonardotm1)
-[![Facebook](https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Leonardo.Marte)
-
-<br clear="right"/>
-	</details>
-</div>
