@@ -1,4 +1,4 @@
-<img width="100%" height="100%" alt="readme-header" src="https://github.com/user-attachments/assets/c3cdf309-065f-4126-afac-d8b55fcc8ea6" />
+<img width="100%" height="100%" alt="readme-header" src=".github\assets\readme-header.svg" />
 
 <br>
 
@@ -37,25 +37,40 @@
 <div align="center">
   <p style="display: inline-block;" align="center">
     <kbd>
-      <kbd>Programming Languages</kbd>
+      <kbd>Programming Languages & Database</kbd>
       <br>
       <br>
-      <img width="30px" src=".github\assets\icons\prgraming-leng\python-svgrepo-com.svg"/>
-      <img width="30px" src=".github\assets\icons\prgraming-leng\csharp-svgrepo-com.svg"/>
-      <img width="30px" src=".github\assets\icons\prgraming-leng\js-svgrepo-com.svg"/>
-      <img width="30" src=".github\assets\icons\prgraming-leng\typescript-svgrepo-com.svg"/>
-      <img width="30" src=".github\assets\icons\microsoft-all-icon\SQL-Database.svg"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\python-light.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\cs.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\javascript.png"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\typescript.png"/>
+      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Microsoft SQL Server 2025 icon.svg"/>
+      <img width="30px" src=".github\assets\icons\database\All-database\duckdb.svg"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\postgresql-light.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\mysql-dark.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\supabase-light.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\sqlite.png"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\html.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\css.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\react-light.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\bootstrap.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\nodejs-light.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\expressjs-light.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\django.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\fastapi.png"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\vercel-light.png"/>
+	    <img width="30" src=".github\assets\icons\ramdon-icon-png\dotnet.png"/>
     </kbd>
-    <kbd>
+    <!--<kbd>
       <kbd>Back-end</kbd>
       <br>
       <br>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\nodedotjs.svg"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\express.svg"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\Django.svg"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\FastAPI.svg"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon\websocket-glass.svg"/>
-	    <img width="30" src=".github\assets\icons\microsoft-all-icon\dotnet.svg"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\nodejs-light.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\expressjs-light.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\django.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\fastapi.png"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\vercel-light.png"/>
+	    <img width="30" src=".github\assets\icons\ramdon-icon-png\dotnet.png"/>
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
@@ -67,25 +82,20 @@
       <img width="30px" src=".github\assets\icons\ramdon-icon\Bootstrap.svg"/>
       <img width="30px" src=".github\assets\icons\ramdon-icon\Tailwind CSS.svg"/>
       <img width="30px" src=".github\assets\icons\prgraming-leng\scss2-svgrepo-com.svg"/>
-    </kbd>
+    </kbd>-->
     <br>
     <kbd>
-      <kbd>Automation & Data Science</kbd>
+      <kbd>Automation, Data Analyst & Data Visualization</kbd>
       <br>
       <br>
-      <img width="30" src=".github\assets\icons\ramdon-icon\Selenium.svg"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\selenium.png"/>
       <img width="30" src=".github\assets\icons\ramdon-icon\Playwrite.svg"/>
       <img width="30" src=".github\assets\icons\prgraming-leng\airflow-svgrepo-com.svg"/>
       <img width="30px" src=".github\assets\icons\ramdon-icon\numpy-svgrepo-com.svg"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
       <img width="30px" src=".github\assets\icons\ramdon-icon\GeoPandas Symbol SVG.svg"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\scikit-learn.svg"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\scikitlearn-light.png"/>
       <img width="30px" src=".github\assets\icons\ramdon-icon\statsmodels-logo-v2-no-text.svg"/>
-    </kbd>
-    <kbd>
-      <kbd>Data Visualization</kbd>
-      <br>
-      <br>
       <img width="30" src=".github\assets\icons\ramdon-icon\Streamlit.svg"/>
 	    <img width="30" src=".github\assets\icons\ramdon-icon\seaborn-icon.svg"/>
 	    <img width="30" src=".github\assets\icons\ramdon-icon\Ploty.svg"/>
@@ -93,8 +103,16 @@
       <img width="30" src=".github\assets\icons\prgraming-leng\svg.svg"/>
       <img width="30" src=".github\assets\icons\libraries\d3dotjs.svg">
       <img width="30" src=".github\assets\icons\libraries\chartjs.svg"/>
+      <!--<img width="30px" src=".github\assets\icons\microsoft-all-icon\Dataverse_scalable.svg"/>-->
+      <img width="30x" src=".github\assets\icons\database\All-database\dbt.svg"/>
+      <img width="30px" src=".github\assets\icons\microsoft-all-icon\microsoft-excel.svg"/>
+      <img width="30" src=".github\assets\icons\microsoft-all-icon\PowerBI_scalable.svg"/>
+      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Microsoft Office Sharepoint 2025.svg"/>
+      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Power Automate.svg"/>
+      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Power Apps.svg"/>
     </kbd>
-    <kbd>
+    </kbd>
+    <!--<kbd>
       <kbd>ETL, EDA & BI</kbd>
       <br>
       <br>
@@ -117,33 +135,27 @@
       <img width="30px" src=".github\assets\icons\database\All-database\MySQL.svg"/>
       <img width="30px" src=".github\assets\icons\database\All-database\supabase.svg"/>
       <img width="30px" src=".github\assets\icons\database\All-database\MongoDB.svg"/>
-    </kbd>
+    </kbd>-->
     <kbd>
-      <kbd>Tools Code and Testing</kbd>
+      <kbd>Code, Testing and AI Tools</kbd>
       <br>
       <br>
-      <img width="30" src=".github\assets\icons\IDEs-CodeEditor\visualstudio.svg"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
-      <img width="30" src=".github\assets\icons\prgraming-leng\Markdown.svg"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon\Postman.svg"/>
-      <img width="30" src=".github\assets\icons\IDEs-CodeEditor\jb-pycharm-svgrepo-com.svg"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupiter" title="Jupiter"/>
-      <img width="30" src=".github\assets\icons\IDEs-CodeEditor\colab-color.svg"/>
-      <img width="30" src=".github\assets\icons\prgraming-leng\git-svgrepo-com.svg"/>
-      <img width="30" src=".github\assets\icons\prgraming-leng\github-icon.svg"/>
-      <img width="30px" src=".github\assets\icons\prgraming-leng\github-actions.svg"/>
-  </kbd>
-     <kbd>
-      <kbd>Tools AI</kbd>
-      <br>
-      <br>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\visualstudio-dark.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\vscode-light.png"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\postman.png"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\pycharm-dark.png"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\webstorm-dark.png"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\idea-dark.png"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\git.png"/>
+      <img width="30" src=".github\assets\icons\ramdon-icon-png\github-dark.png"/>
+      <img width="30px" src=".github\assets\icons\ramdon-icon-png\githubactions-light.png"/>
       <img width="30px" src=".github\assets\icons\ramdon-icon\cursor.svg"/>
       <img width="30px" src=".github\assets\icons\AI-icon\claude-color.svg"/>
       <img width="30px" src=".github\assets\icons\AI-icon\codex-color.svg"/>
       <img width="30px" src=".github\assets\icons\microsoft-all-icon\copilot color.svg"/>
       <img width="30px" src=".github\assets\icons\ramdon-icon\junie-color.svg"/>
       <img width="30px" src=".github\assets\icons\AI-icon\openrouter-color.svg"/>
-    </kbd>
+  </kbd>
   </p>
 </div>
 
@@ -192,8 +204,11 @@
 </table>
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@datacode-dev)
+<div align="center">
 
+  [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@datacode-dev)
+
+</div>
 <br>
 
 <div align="center">
