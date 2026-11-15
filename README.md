@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%ffffff&size=30&center=true&vCenter=true&height=30&width=600&lines=WELCOME+TO+MY+PROFILE...!" alt="Title">
-</div>
-
 <img width="100%" height="100%" alt="readme-header" src=".github\assets\readme-header.svg" />
 
    <p align="center"><a href="https://www.youtube.com/@datacode-dev?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-subscribers.svg"/></a> <a href="https://www.youtube.com/@datacode-dev"><img alt="youtube views" title="YouTube views" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-views.svg"/></a> <a href="https://x.com/LeitoRCC"><img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/x-follow.svg"/></a> <a href="https://github.com/leonardo-jose-marte?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-stars.svg"/></a> <a href="https://github.com/leonardo-jose-marte?tab=followers"><img alt="github followers" title="Followers on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-followers.svg"/></a> <a href="https://www.linkedin.com/in/leonardo-marte-b46ba43ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.tiktok.com/@datacodeacademy"><img src="https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/></a> <a href="https://www.instagram.com/leonardotm1"><img src="https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> <a href="https://www.facebook.com/Leonardo.Marte"><img src="https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a></p>
@@ -31,81 +27,141 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
 <p align="center">
   <table>
     <tr>
-  <!-- Columna 1 -->
+      <!-- Columna 1 -->
       <td align="center" valign="top">
         <kbd>
-          <br>
+          <!-- Fila 1 -->
           <img width="30px" src=".github/assets/icons/ramdon-icon-png/python-light.png"/>
           <img width="30px" src=".github/assets/icons/ramdon-icon-png/cs.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/rust.png"/>
+          <br>
+          <!-- Fila 2 -->
           <img width="30px" src=".github/assets/icons/ramdon-icon-png/javascript.png"/>
-          <br>
           <img width="30" src=".github/assets/icons/ramdon-icon-png/typescript.png"/>
-          <img width="30px" src=".github/assets/icons/microsoft-all-icon/Microsoft SQL Server 2025 icon.svg"/>
-          <img width="30px" src=".github/assets/icons/database/All-database/duckdb.svg"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/html.png"/>
           <br>
-          <img width="30px" src=".github/assets/icons/ramdon-icon-png/postgresql-light.png"/>
-          <img width="30px" src=".github/assets/icons/ramdon-icon-png/mysql-dark.png"/>
-          <img width="30px" src=".github/assets/icons/ramdon-icon-png/supabase-light.png"/>
+          <!-- Fila 3 -->
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/css.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/react-light.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/bootstrap.png"/>
+          <br>
+          <!-- Fila 4 -->
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/nodejs-light.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/expressjs-light.png"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/dotnet.png"/>
         </kbd>
       </td>
       
-<td width="20"></td>
+  <td width="15"></td>
 
-<!-- Columna 2 -->
- <td align="center" valign="top">
+  <!-- Columna 2 -->
+  <td align="center" valign="top">
         <kbd>
-          <br>
-          <img width="30px" src=".github/assets/icons/ramdon-icon-png/sqlite.png"/>
-          <img width="30" src=".github/assets/icons/ramdon-icon-png/html.png"/>
-          <img width="30px" src=".github/assets/icons/ramdon-icon-png/css.png"/>
-          <br>
-          <img width="30px" src=".github/assets/icons/ramdon-icon-png/react-light.png"/>
-          <img width="30px" src=".github/assets/icons/ramdon-icon-png/bootstrap.png"/>
-          <img width="30px" src=".github/assets/icons/ramdon-icon-png/nodejs-light.png"/>
-          <br>
-          <img width="30px" src=".github/assets/icons/ramdon-icon-png/expressjs-light.png"/>
-          <img width="30px" src=".github/assets/icons/ramdon-icon-png/django.png"/>
+          <!-- Fila 1 -->
           <img width="30px" src=".github/assets/icons/ramdon-icon-png/fastapi.png"/>
-        </kbd>
-      </td>
-
-<td width="20"></td>
-
-<!-- Columna 3 -->
- <td align="center" valign="top">
-        <kbd>
-          <br>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/django.png"/>
           <img width="30" src=".github/assets/icons/ramdon-icon-png/vercel-light.png"/>
-          <img width="30" src=".github/assets/icons/ramdon-icon-png/dotnet.png"/>
-          <img width="30" src=".github/assets/icons/ramdon-icon-png/selenium.png"/>
           <br>
+          <!-- Fila 2 -->
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/sqlite.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/mysql-dark.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/postgresql-light.png"/>
+          <br>
+          <!-- Fila 3 -->
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/supabase-light.png"/>
+          <img width="30px" src=".github/assets/icons/microsoft-all-icon/Microsoft SQL Server 2025 icon.svg"/>
+          <img width="30px" src=".github/assets/icons/database/All-database/duckdb.svg"/>
+          <br>
+          <!-- Fila 4 -->
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/selenium.png"/>
           <img width="30" src=".github/assets/icons/ramdon-icon/Playwrite.svg"/>
           <img width="30" src=".github/assets/icons/prgraming-leng/airflow-svgrepo-com.svg"/>
-          <img width="30px" src=".github/assets/icons/ramdon-icon/numpy-svgrepo-com.svg"/>
-          <br>
-          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas"/>
-          <img width="30px" src=".github/assets/icons/ramdon-icon/GeoPandas Symbol SVG.svg"/>
-          <img width="30px" src=".github/assets/icons/ramdon-icon-png/scikitlearn-light.png"/>
         </kbd>
       </td>
 
-<td width="20"></td>
+  <td width="15"></td>
 
- <!-- Columna 4 -->
- <td align="center" valign="top">
+  <!-- Columna 3 -->
+  <td align="center" valign="top">
         <kbd>
+          <!-- Fila 1 -->
+          <img width="30px" src=".github/assets/icons/ramdon-icon/numpy-svgrepo-com.svg"/>
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon/GeoPandas Symbol SVG.svg"/>
           <br>
+          <!-- Fila 2 -->
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/scikitlearn-light.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon/statsmodels-logo-v2-no-text.svg"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon/Streamlit.svg"/>
+          <br>
+          <!-- Fila 3 -->
+          <img width="30" src=".github/assets/icons/ramdon-icon/seaborn-icon.svg"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon/Ploty.svg"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon/Matplotlib.svg"/>
+          <br>
+          <!-- Fila 4 -->
+          <img width="30" src=".github/assets/icons/prgraming-leng/svg.svg"/>
+          <img width="30" src=".github/assets/icons/libraries/d3dotjs.svg">
+          <img width="30" src=".github/assets/icons/libraries/chartjs.svg"/>
+        </kbd>
+      </td>
+
+  <td width="15"></td>
+
+  <!-- Columna 4 -->
+  <td align="center" valign="top">
+        <kbd>
+          <!-- Fila 1 -->
+          <img width="30px" src=".github/assets/icons/database/All-database/dbt.svg"/>
+          <img width="30px" src=".github/assets/icons/microsoft-all-icon/microsoft-excel.svg"/>
+          <img width="30" src=".github/assets/icons/microsoft-all-icon/PowerBI_scalable.svg"/>
+          <br>
+          <!-- Fila 2 -->
+          <img width="30px" src=".github/assets/icons/microsoft-all-icon/Microsoft Office Sharepoint 2025.svg"/>
+          <img width="30px" src=".github/assets/icons/microsoft-all-icon/Power Automate.svg"/>
+          <img width="30px" src=".github/assets/icons/microsoft-all-icon/Power Apps.svg"/>
+          <br>
+          <!-- Fila 3 -->
           <img width="30" src=".github/assets/icons/ramdon-icon-png/visualstudio-dark.png"/>
           <img width="30px" src=".github/assets/icons/ramdon-icon-png/vscode-light.png"/>
           <img width="30" src=".github/assets/icons/ramdon-icon-png/postman.png"/>
           <br>
+          <!-- Fila 4 -->
           <img width="30" src=".github/assets/icons/ramdon-icon-png/pycharm-dark.png"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/webstorm-dark.png"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/idea-dark.png"/>
+        </kbd>
+      </td>
+
+  <td width="15"></td>
+
+  <!-- Columna 5 -->
+  <td align="center" valign="top">
+        <kbd>
+          <!-- Fila 1 -->
           <img width="30" src=".github/assets/icons/ramdon-icon-png/git.png"/>
           <img width="30" src=".github/assets/icons/ramdon-icon-png/github-dark.png"/>
-          <br>
           <img width="30px" src=".github/assets/icons/ramdon-icon-png/githubactions-light.png"/>
+          <br>
+          <!-- Fila 2 -->
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/docker.png"/>
+          <img width="30" src=".github/assets/icons/prgraming-leng/json-official-svgrepo-com.svg"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/githubactions-light.png"/>
+          <br>
+          <!-- Fila 3 -->
           <img width="30px" src=".github/assets/icons/ramdon-icon/cursor.svg"/>
           <img width="30px" src=".github/assets/icons/AI-icon/claude-color.svg"/>
+          <img width="30px" src=".github/assets/icons/AI-icon/codex-color.svg"/>
+          <br>
+          <!-- Fila 4 -->
+          <img width="30px" src=".github/assets/icons/microsoft-all-icon/copilot color.svg"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon/junie-color.svg"/>
+          <img width="30px" src=".github/assets/icons/AI-icon/openrouter-color.svg"/>
+          <br>
+          <!-- Fila 5 (Espacio de respaldo limpio para nivelar estéticamente) -->
+          <span style="display:inline-block; width:30px; height:30px;"></span>
+          <span style="display:inline-block; width:30px; height:30px;"></span>
+          <span style="display:inline-block; width:30px; height:30px;"></span>
         </kbd>
       </td>
     </tr>
@@ -116,7 +172,10 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
 
 #
 
+<div align="center">
+  
 ### 📺 Latest YouTube Videos
+</div>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <table>
@@ -225,4 +284,10 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
       </tr>
     </table>
   </details>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%ffffff&size=30&center=true&vCenter=true&height=30&width=600&lines=THANK+FOR+VISITE+MY+PROFILE...!" alt="Title">
 </div>
