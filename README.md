@@ -2,20 +2,6 @@
 
    <p align="center"><a href="https://www.youtube.com/@datacode-dev?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-subscribers.svg"/></a> <a href="https://www.youtube.com/@datacode-dev"><img alt="youtube views" title="YouTube views" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-views.svg"/></a> <a href="https://x.com/LeitoRCC"><img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/x-follow.svg"/></a> <a href="https://github.com/leonardo-jose-marte?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-stars.svg"/></a> <a href="https://github.com/leonardo-jose-marte?tab=followers"><img alt="github followers" title="Followers on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-followers.svg"/></a> <a href="https://www.linkedin.com/in/leonardo-marte-b46ba43ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.tiktok.com/@datacodeacademy"><img src="https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/></a> <a href="https://www.instagram.com/leonardotm1"><img src="https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> <a href="https://www.facebook.com/Leonardo.Marte"><img src="https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a></p>
 
-<div align="center">
-  <details style="display: inline-block; text-align: left;">
-    <summary style="cursor: pointer;"><strong>SOBRE MÍ</strong></summary>
-
-<br>
-
-Analista de Datos y *Business Intelligence* de formación **100% autodidacta** y en **constante evolución**. Combino una sólida *madurez operativa* previa como supervisor y técnico con un dominio técnico continuo en **SQL, Python, Power BI, Excel y Estadística**, transformando datos desordenados en *automatizaciones*, *reportes* y *dashboards estratégicos* (**finanzas, logística, almacén y ventas**).
-
-Mi propuesta de valor es unir la *visión práctica del negocio* con la **precisión analítica**: limpio y estructuro datos (**SQL/Power Query**), diseño *visualizaciones de alto impacto* (**Power BI/DAX/Tableau**) e implemento *análisis avanzados* (**Python**). Como **aprendiz permanente** y *solucionador de problemas*, busco sumarme a un equipo dinámico donde seguir expandiendo mis capacidades y aportar **valor real** desde el primer día.
-
-<br clear="right"/>
-  </details>
-</div>
-
 <br>
 
 <div align="center">
@@ -168,8 +154,6 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
   </table>
 </p>
 
-<br>
-
 #
 
 <div align="center">
@@ -222,7 +206,21 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
 
 </div>
 
----
+<div align="center">
+  <details style="display: inline-block; text-align: left;">
+    <summary style="cursor: pointer;"><strong>SOBRE MÍ</strong></summary>
+
+<br>
+
+Analista de Datos y *Business Intelligence* de formación **100% autodidacta** y en **constante evolución**. Combino una sólida *madurez operativa* previa como supervisor y técnico con un dominio técnico continuo en **SQL, Python, Power BI, Excel y Estadística**, transformando datos desordenados en *automatizaciones*, *reportes* y *dashboards estratégicos* (**finanzas, logística, almacén y ventas**).
+
+Mi propuesta de valor es unir la *visión práctica del negocio* con la **precisión analítica**: limpio y estructuro datos (**SQL/Power Query**), diseño *visualizaciones de alto impacto* (**Power BI/DAX/Tableau**) e implemento *análisis avanzados* (**Python**). Como **aprendiz permanente** y *solucionador de problemas*, busco sumarme a un equipo dinámico donde seguir expandiendo mis capacidades y aportar **valor real** desde el primer día.
+
+<br clear="right"/>
+  </details>
+</div>
+
+#
 
 <br>
 
