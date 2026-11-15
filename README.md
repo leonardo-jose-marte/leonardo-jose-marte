@@ -286,7 +286,9 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
   </details>
 </div>
 
-<br><br>
+<br>
+<br>
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%ffffff&size=30&center=true&vCenter=true&height=30&width=600&lines=THANK+FOR+VISITE+MY+PROFILE...!" alt="Title">
