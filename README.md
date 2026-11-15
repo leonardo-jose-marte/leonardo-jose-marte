@@ -6,227 +6,113 @@
 
    <p align="center"><a href="https://www.youtube.com/@datacode-dev?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-subscribers.svg"/></a> <a href="https://www.youtube.com/@datacode-dev"><img alt="youtube views" title="YouTube views" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/youtube-views.svg"/></a> <a href="https://x.com/LeitoRCC"><img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/x-follow.svg"/></a> <a href="https://github.com/leonardo-jose-marte?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-stars.svg"/></a> <a href="https://github.com/leonardo-jose-marte?tab=followers"><img alt="github followers" title="Followers on GitHub" src="https://raw.githubusercontent.com/leonardo-jose-marte/leonardo-jose-marte/main/.github/assets/github-followers.svg"/></a> <a href="https://www.linkedin.com/in/leonardo-marte-b46ba43ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.tiktok.com/@datacodeacademy"><img src="https://img.shields.io/badge/@datacodeacademy-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/></a> <a href="https://www.instagram.com/leonardotm1"><img src="https://img.shields.io/badge/leonardotm1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> <a href="https://www.facebook.com/Leonardo.Marte"><img src="https://img.shields.io/badge/Leonardo.Marte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a></p>
 
+<div align="center">
+  <details style="display: inline-block; text-align: left;">
+    <summary style="cursor: pointer;"><strong>SOBRE MÍ</strong></summary>
 
-
-<div align="left">
-	<summary style="cursor: pointer;">
-	    <h3 style="display: inline;">
-	      <picture>
-	        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
-	      </picture>
-	      <strong>SOBRE MÍ</strong>
-	    </h3>
-	  </summary>
-
-  <br>
-  
-<img align="right" src=".github/assets/datacode-mascot-tight.png" width="290" alt="DataCode mascot" />
+<br>
 
 Analista de Datos y *Business Intelligence* de formación **100% autodidacta** y en **constante evolución**. Combino una sólida *madurez operativa* previa como supervisor y técnico con un dominio técnico continuo en **SQL, Python, Power BI, Excel y Estadística**, transformando datos desordenados en *automatizaciones*, *reportes* y *dashboards estratégicos* (**finanzas, logística, almacén y ventas**).
 
 Mi propuesta de valor es unir la *visión práctica del negocio* con la **precisión analítica**: limpio y estructuro datos (**SQL/Power Query**), diseño *visualizaciones de alto impacto* (**Power BI/DAX/Tableau**) e implemento *análisis avanzados* (**Python**). Como **aprendiz permanente** y *solucionador de problemas*, busco sumarme a un equipo dinámico donde seguir expandiendo mis capacidades y aportar **valor real** desde el primer día.
 
 <br clear="right"/>
-</div>
-
-<br>
-
-<div align="left">
-<summary>
-    <h3 style="display: inline;">
-      <picture>
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
-      </picture>
-      <strong>MIS HABILIDADES & HERRAMIENTAS</strong>
-    </h3>
-  </summary>
-</div>
-<br>
-
-<div align="left">
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Programming Languages & Database</kbd>
-      <br>
-      <br>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\python-light.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\cs.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\javascript.png"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\typescript.png"/>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Microsoft SQL Server 2025 icon.svg"/>
-      <img width="30px" src=".github\assets\icons\database\All-database\duckdb.svg"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\postgresql-light.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\mysql-dark.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\supabase-light.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\sqlite.png"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\html.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\css.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\react-light.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\bootstrap.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\nodejs-light.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\expressjs-light.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\django.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\fastapi.png"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\vercel-light.png"/>
-	    <img width="30" src=".github\assets\icons\ramdon-icon-png\dotnet.png"/>
-    </kbd>
-    <!--<kbd>
-      <kbd>Back-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\nodejs-light.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\expressjs-light.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\django.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\fastapi.png"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\vercel-light.png"/>
-	    <img width="30" src=".github\assets\icons\ramdon-icon-png\dotnet.png"/>
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src=".github\assets\icons\prgraming-leng\html-5-svgrepo-com.svg"/>
-      <img width="30px" src=".github\assets\icons\prgraming-leng\css-3-svgrepo-com.svg"/>
-      <img width="30px" src=".github\assets\icons\prgraming-leng\react-svgrepo-com.svg"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\Bootstrap.svg"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\Tailwind CSS.svg"/>
-      <img width="30px" src=".github\assets\icons\prgraming-leng\scss2-svgrepo-com.svg"/>
-    </kbd>-->
-    <br>
-    <kbd>
-      <kbd>Automation, Data Analyst & Data Visualization</kbd>
-      <br>
-      <br>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\selenium.png"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon\Playwrite.svg"/>
-      <img width="30" src=".github\assets\icons\prgraming-leng\airflow-svgrepo-com.svg"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\numpy-svgrepo-com.svg"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\GeoPandas Symbol SVG.svg"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\scikitlearn-light.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\statsmodels-logo-v2-no-text.svg"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon\Streamlit.svg"/>
-	    <img width="30" src=".github\assets\icons\ramdon-icon\seaborn-icon.svg"/>
-	    <img width="30" src=".github\assets\icons\ramdon-icon\Ploty.svg"/>
-	    <img width="30" src=".github\assets\icons\ramdon-icon\Matplotlib.svg"/>
-      <img width="30" src=".github\assets\icons\prgraming-leng\svg.svg"/>
-      <img width="30" src=".github\assets\icons\libraries\d3dotjs.svg">
-      <img width="30" src=".github\assets\icons\libraries\chartjs.svg"/>
-      <!--<img width="30px" src=".github\assets\icons\microsoft-all-icon\Dataverse_scalable.svg"/>-->
-      <img width="30x" src=".github\assets\icons\database\All-database\dbt.svg"/>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\microsoft-excel.svg"/>
-      <img width="30" src=".github\assets\icons\microsoft-all-icon\PowerBI_scalable.svg"/>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Microsoft Office Sharepoint 2025.svg"/>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Power Automate.svg"/>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Power Apps.svg"/>
-    </kbd>
-    </kbd>
-    <!--<kbd>
-      <kbd>ETL, EDA & BI</kbd>
-      <br>
-      <br>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Dataverse_scalable.svg"/>
-      <img width="30x" src=".github\assets\icons\database\All-database\dbt.svg"/>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\microsoft-excel.svg"/>
-      <img width="30" src=".github\assets\icons\microsoft-all-icon\PowerBI_scalable.svg"/>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Microsoft Office Sharepoint 2025.svg"/>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Power Automate.svg"/>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Power Apps.svg"/>
-    </kbd>
-	<br>
-	<kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\Microsoft SQL Server 2025 icon.svg"/>
-      <img width="30px" src=".github\assets\icons\database\All-database\duckdb.svg"/>
-      <img width="30px" src=".github\assets\icons\database\All-database\PostgresSQL.svg"/>
-      <img width="30px" src=".github\assets\icons\database\All-database\MySQL.svg"/>
-      <img width="30px" src=".github\assets\icons\database\All-database\supabase.svg"/>
-      <img width="30px" src=".github\assets\icons\database\All-database\MongoDB.svg"/>
-    </kbd>-->
-    <kbd>
-      <kbd>Code, Testing and AI Tools</kbd>
-      <br>
-      <br>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\visualstudio-dark.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\vscode-light.png"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\postman.png"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\pycharm-dark.png"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\webstorm-dark.png"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\idea-dark.png"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\git.png"/>
-      <img width="30" src=".github\assets\icons\ramdon-icon-png\github-dark.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon-png\githubactions-light.png"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\cursor.svg"/>
-      <img width="30px" src=".github\assets\icons\AI-icon\claude-color.svg"/>
-      <img width="30px" src=".github\assets\icons\AI-icon\codex-color.svg"/>
-      <img width="30px" src=".github\assets\icons\microsoft-all-icon\copilot color.svg"/>
-      <img width="30px" src=".github\assets\icons\ramdon-icon\junie-color.svg"/>
-      <img width="30px" src=".github\assets\icons\AI-icon\openrouter-color.svg"/>
-  </kbd>
-  </p>
+  </details>
 </div>
 
 <br>
 
 <div align="center">
-	<summary style="cursor: pointer;">
-	    <h3 style="display: inline;">
-	      <picture>
-	        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
-	      </picture>
-	      <strong>MIS CERTIFICACIONES</strong>
-	    </h3>
-	  </summary>
-  </div>
+  <h3 style="display: inline;">
+    <strong>MIS HABILIDADES & HERRAMIENTAS</strong>
+  </h3>
+</div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="docs\certificados\certificado de educación secundaria.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Educación%20to%20Psecundaria-red?style=for-the-badge" alt="educación secundaria">
-      </a>
-    </td>
-    <td align="center">
-      <a href="docs\certificados\Certificado-arquitecura.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Softtware Architec%20Fundamentals-blue?style=for-the-badge" alt="Softtware Architec Fundamentals">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.commitacademy.io/app/verify-certificate/cert_NJR1mGVyvv" target="_blank">
-        <img src="https://img.shields.io/badge/Cloud%20Fundamentals%20Width%20AWS-green?style=for-the-badge" alt="Machine Learning for Everyone">
-      </a>
-    </td>
-    <td align="center">
-      <a href="docs\certificados\curso-Ciencia-de-datos.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Data%20Science%20Fundamentals%20-I-orange?style=for-the-badge" alt="Data Science Fundamentals - I">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge" alt="Data Science Toolbox - II">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge" alt="Statistical Thinking in Python">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge" alt="Supervised Learning with Sklearn">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Aryagm" target="_blank">
-        <img src="https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge" alt="More on the Way!">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+  <!-- Columna 1 -->
+      <td align="center" valign="top">
+        <kbd>
+          <br>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/python-light.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/cs.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/javascript.png"/>
+          <br>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/typescript.png"/>
+          <img width="30px" src=".github/assets/icons/microsoft-all-icon/Microsoft SQL Server 2025 icon.svg"/>
+          <img width="30px" src=".github/assets/icons/database/All-database/duckdb.svg"/>
+          <br>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/postgresql-light.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/mysql-dark.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/supabase-light.png"/>
+        </kbd>
+      </td>
+      
+<td width="20"></td>
+
+<!-- Columna 2 -->
+ <td align="center" valign="top">
+        <kbd>
+          <br>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/sqlite.png"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/html.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/css.png"/>
+          <br>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/react-light.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/bootstrap.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/nodejs-light.png"/>
+          <br>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/expressjs-light.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/django.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/fastapi.png"/>
+        </kbd>
+      </td>
+
+<td width="20"></td>
+
+<!-- Columna 3 -->
+ <td align="center" valign="top">
+        <kbd>
+          <br>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/vercel-light.png"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/dotnet.png"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/selenium.png"/>
+          <br>
+          <img width="30" src=".github/assets/icons/ramdon-icon/Playwrite.svg"/>
+          <img width="30" src=".github/assets/icons/prgraming-leng/airflow-svgrepo-com.svg"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon/numpy-svgrepo-com.svg"/>
+          <br>
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon/GeoPandas Symbol SVG.svg"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/scikitlearn-light.png"/>
+        </kbd>
+      </td>
+
+<td width="20"></td>
+
+ <!-- Columna 4 -->
+ <td align="center" valign="top">
+        <kbd>
+          <br>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/visualstudio-dark.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/vscode-light.png"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/postman.png"/>
+          <br>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/pycharm-dark.png"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/git.png"/>
+          <img width="30" src=".github/assets/icons/ramdon-icon-png/github-dark.png"/>
+          <br>
+          <img width="30px" src=".github/assets/icons/ramdon-icon-png/githubactions-light.png"/>
+          <img width="30px" src=".github/assets/icons/ramdon-icon/cursor.svg"/>
+          <img width="30px" src=".github/assets/icons/AI-icon/claude-color.svg"/>
+        </kbd>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br>
 
 #
 
@@ -281,3 +167,62 @@ Mi propuesta de valor es unir la *visión práctica del negocio* con la **precis
 
 <br>
 
+<div align="center">
+  <details style="display: inline-block; text-align: left;">
+    <summary style="cursor: pointer; display: inline-flex; align-items: center; list-style: none;">
+      <picture>
+        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle; margin-right: 8px;">
+      </picture>
+      <h3 style="display: inline; margin: 0;"><strong>MIS CERTIFICACIONES</strong></h3>
+    </summary>
+
+ <br>
+
+<table align="center">
+      <tr>
+        <td align="center">
+          <a href="docs/certificados/certificado de educación secundaria.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/Educación%20to%20Psecundaria-red?style=for-the-badge" alt="educación secundaria">
+          </a>
+        </td>
+        <td align="center">
+          <a href="docs/certificados/Certificado-arquitecura.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/Softtware%20Architec%20Fundamentals-blue?style=for-the-badge" alt="Softtware Architec Fundamentals">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://www.commitacademy.io/app/verify-certificate/cert_NJR1mGVyvv" target="_blank">
+            <img src="https://img.shields.io/badge/Cloud%20Fundamentals%20Width%20AWS-green?style=for-the-badge" alt="Cloud Fundamentals Width AWS">
+          </a>
+        </td>
+        <td align="center">
+          <a href="docs/certificados/curso-Ciencia-de-datos.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/Data%20Science%20Fundamentals%20-I-orange?style=for-the-badge" alt="Data Science Fundamentals - I">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge" alt="Data Science Toolbox - II">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge" alt="Statistical Thinking in Python">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge" alt="Supervised Learning with Sklearn">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/Aryagm" target="_blank">
+            <img src="https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge" alt="More on the Way!">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
